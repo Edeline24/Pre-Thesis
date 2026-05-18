@@ -33,7 +33,7 @@ MODEL_NAME    = "llama-3.3-70b-versatile"
 N_GENERATIONS = 5    
 START_IDX     = 0
 END_IDX       = 100
-BATCH_SIZE    = 20  # Number of questions per batch file
+BATCH_SIZE    = 40  # Number of questions per batch file
 
 TEMPERATURE   = 0.7
 TOP_P         = 0.9
