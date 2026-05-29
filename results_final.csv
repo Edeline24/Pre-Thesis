@@ -1,0 +1,2201 @@
+question_id,experimental_group,correct_answer,all_answers,majority_answer,agreement_ratio,is_correct,high_agreement,reasoning_texts,prompt,entropy,batch_id
+0,group_1,A,"[""A"", ""A"", ""A"", ""A"", ""A""]",A,1.0,True,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+In the planning of a new district in a township, it was decided to build a special community in the southeast, northwest, centered on the citizen park.These four communities are designated as cultural area, leisure area, commercial area and administrative service area.It is known that the administrative service area is southwest of the cultural area, and the cultural area is southeast of the leisure area.
+
+Question:
+
+Based on the above statement, which of the following can be derived?
+
+Options:
+
+A. Civic Park is north of the administrative service area
+B. The leisure area is southwest of the cultural area
+C. The cultural district is in the northeast of the business district
+D. The business district is southeast of the leisure area
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,0_to_39
+1,group_2,A,"[""A"", ""A"", ""B"", ""C"", ""A""]",A,0.6,True,False,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: B"", ""Final Answer: C"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+The company sent three young staff members to the South for business trip.The three of them happened to be sitting in a row.At least one of the two people sitting on the right side of 24 years old was 20 years old.20 years old.At least one of the two people sitting on the left of the accountant is a salesperson, and one of the two people sitting on the right of the salesperson is also a salesperson.
+
+Question:
+
+So what are the three young people on business?
+
+Options:
+
+A. 20-year-old accountant, 20-year-old salesperson, 24-year-old salesperson
+B. 20-year-old accountant, 24-year-old salesperson, 24-year-old salesperson
+C. 24-year-old accountant, 20-year-old salesperson, 20-year-old salesperson
+D. 20-year-old accountant, 20-year-old accountant, 24-year-old salesperson
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",1.371,0_to_39
+2,group_3,B,"[""C"", ""C"", ""C"", ""C"", ""A""]",C,0.8,False,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+In a traditional Chinese medicine preparation, there must be at least one kind of ginseng or codonopsis, and the following conditions must also be met? 1) If there is codonopsis, there must be atractylodes.2) Atractylodes macrocephala and ginseng can only have at most one.You must have Shouwu.4) If you have Shouwu, you must have Atractylodes.
+
+Question:
+
+According to the above statement, which of the following can be drawn about this Chinese medicine preparation?
+
+Options:
+
+A. A No dangshen
+B. B No Shouwu
+C. C 有 白 术
+D. D 不 白 术
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,0_to_39
+3,group_1,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+In recent years, graduate entrance examinations have continued to heat up.Correspondingly, a variety of postgraduate counseling classes have emerged, especially English and political counseling classes are almost a must for the postgraduates.Xiaozhuang, who has just started working, also intends to take the postgraduate entrance exam, so Xiaozhuang must take English tutoring classes
+
+Question:
+
+Which of the following can best strengthen the above argument
+
+Options:
+
+A. If you take an English tutoring class, you can pass the graduate entrance exam
+B. Only those who intend to take the graduate entrance exam will participate in the English tutoring class
+C. Even if you take an English tutoring class, you may not be able to pass the graduate entrance exam
+D. If you do not participate in the English tutoring class, you cannot pass the graduate entrance exam
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,0_to_39
+4,group_2,D,"[""C"", ""D"", ""D"", ""D"", ""D""]",D,0.8,True,True,"[""Final Answer: C"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+A unit conducted the year-end assessment and after democratic voting, five people were identified as candidates for the first prize.In the selection of five in four, the following factors need to be considered? 1) At least one person of Bingding is selected.2) If E is selected, then A and B are also selected.3) A maximum of 2 people are selected.
+
+Question:
+
+According to the above statement, it can be concluded that who is not in the fourth?
+
+Options:
+
+A. A.
+B. B.
+C. C.
+D. Ding.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,0_to_39
+5,group_3,B,"[""B"", ""B"", ""B"", ""B"", ""B""]",B,1.0,True,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Zhang Ming, Li Ying, Wang Jia and Chen Rui work in a team.They come from four provinces of Jiangsu, Anhui, Fujian and Shandong.Each person can only speak a dialect of their origin.Speaking of southern Fujian dialects, Shandong people have the highest educational level and can speak Central Plains Mandarin.Wang Jia has a lower education level than Fujianese.Li Ying can speak Huizhou dialect and is a colleague with his classmates from Jiangsu.Chen Rui does not understand the dialect of southern Fujian.
+
+Question:
+
+According to the above statement, you can get which of the following?
+
+Options:
+
+A. A Chen Rui can't speak the Central Plains Mandarin
+B. B Zhang Ming speaks Minnan dialect
+C. C Li Ying is from Shandong
+D. D Wang Jia can speak Huizhou dialect
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,0_to_39
+6,group_1,D,"[""C"", ""C"", ""A"", ""A"", ""A""]",A,0.6,False,False,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+The person in charge of the relevant department said that pilots will be carried out in some areas this year to prepare for the system and policy preparations for the comprehensive clean-up of ""small property houses"", and require all localities to confirm the registration and certification of rural collective land.All small-property houses are not subject to registration and are not protected by law.Therefore, this newly built house in Hexi Village is not protected by law.
+
+Question:
+
+Which of the following is true will most weaken the above argument
+
+Options:
+
+A. This newly built house in Hexi Village has been tacitly approved by relevant departments
+B. This newly built house in Hexi Village is a small property house
+C. This newly built house in Hexi Village is built on rural collective land
+D. Some of the newly built houses in Hexi Village are not small property houses
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.971,0_to_39
+7,group_2,C,"[""C"", ""C"", ""C"", ""C"", ""C""]",C,1.0,True,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+There are five teams participating in the game.The audience had the following comments on the results? (1) The champion is either the Shannan team or the Jiangbei team.(2) The champion is neither Shanbei nor Jiangnan.(3) The champion is Jiangnan Team.(4) The champion is not the Shannan team.
+
+Question:
+
+The result of the match showed that only one argument was correct, so who won the championship?
+
+Options:
+
+A. A Shannan
+B. B Jiangnan
+C. C Shanbei
+D. D Jiangbei
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,0_to_39
+8,group_3,C,"[""C"", ""C"", ""C"", ""D"", ""C""]",C,0.8,True,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: D"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Compared with small and medium-sized cities, especially small cities and towns, large cities have higher living costs, which inevitably limits the entry of rural population.Therefore, the development of large cities alone cannot actually achieve urbanization
+
+Question:
+
+Which of the following is the conclusion must be assumed
+
+Options:
+
+A. Urbanization is the only way for China's development
+B. Simple development of large cities is not conducive to the promotion of urbanization
+C. To achieve urbanization, the city must fully absorb the rural population
+D. The attractiveness of large cities to the rural population in the outside world is significantly lower than that of small and medium-sized cities
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,0_to_39
+9,group_1,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Researchers recently discovered that there is an area called the thalamus pillow deep in the human brain, which is like an information desk operator, responsible for sorting out the external stimulus information and focusing human attention on the most important for behavior and survival Information.The researchers pointed out that this discovery is expected to bring new treatments for disorders such as attention deficit hyperactivity disorder and schizophrenia caused by lack of attention.
+
+Question:
+
+Which of the following is assumed by the above argument
+
+Options:
+
+A. Some schizophrenia are not caused by lack of attention
+B. Visual information is only transmitted through the visual cortex to obtain a neural network to transmit
+C. Researchers have developed a new technology that can directly track the communication between the nerve cortex in the visual cortex and thalamus occipital region
+D. The brain cannot process too much information in detail at the same time, and will only selectively focus on the things most relevant to the behavior
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,0_to_39
+10,group_2,B,"[""B"", ""A"", ""B"", ""B"", ""B""]",B,0.8,True,True,"[""Final Answer: B"", ""Final Answer: A"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+According to a report, in the year to March, mainland Chinese buyers became the second largest group of foreign buyers buying US real estate, with a transaction volume of US $ 9 billion, second only to Canada.This is 23% higher than the previous year ’s USD 7.3 billion transaction volume and 88% higher than the previous year ’s USD 4.8 billion transaction volume.Some people think that there are more and more rich people in China who are transferring their property abroad.
+
+Question:
+
+Which of the following is true is the best argument against the above argument
+
+Options:
+
+A. A? Many Chinese people buy homes for their children to study in the US
+B. B? Although the turnover has increased by 23%, the volume of Chinese buyers has not increased this year
+C. There are groups of real estate speculators among the wealthy Chinese who have speculated in Beijing and Shanghai
+D. The risk of the US real estate market has been small in recent years and has a certain function of value preservation and appreciation
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,0_to_39
+11,group_3,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+People often use microwave ovens to heat food.Some people think that microwave oven heating changes the molecular structure of food, producing molecules that the human body cannot recognize.These strange molecular formulas are unacceptable to the human body, and some are toxic and may even cause cancer.Therefore, people or animals who often eat microwave foods will have serious physiological changes in their bodies, which will cause serious health problems.
+
+Question:
+
+Which of the following can best question the above view?
+
+Options:
+
+A. Microwave heating will not cause more nutrient loss than other cooking methods
+B. China's microwave oven production standards are consistent with international standards and EU standards
+C. It is also common for developed countries to use microwave ovens
+D. The microwave only heats the water molecules in the food, the food does not change chemically
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,0_to_39
+12,group_1,A,"[""A"", ""A"", ""C"", ""A"", ""C""]",A,0.6,True,False,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: C"", ""Final Answer: A"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+A research report shows that the proportion of children of cadres in Peking University increased from 20% in the 1980s to nearly 40% in 1977, surpassing the children of workers, farmers and professional technicians, and becoming the largest source of students.According to this, some media believe that the proportion of students and children of Peking University students has been rising for 20 years, surpassing other classes.
+
+Question:
+
+Which one, if true, most doubts the views of the above media
+
+Options:
+
+A. Many of the cadres counted in the past 20 years are enterprise cadres, which used to include only government officials
+B. Compared with foreign countries, Chinese education provides workers and peasants with more opportunities for education and social mobility
+C. After the founding of New China, more and more children of workers and peasants entered the university
+D. Some of the workers ’children in the statistics may be former farmers’ children
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.971,0_to_39
+13,group_2,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Lotus leaf is the leaf of the aquatic herbaceous plant for many years.Its chemical components mainly include lotus alkaloid, citric acid, malic acid, gluconic acid, oxalic acid, succinic acid, and other basic components against mitosis.Lotus leaf contains a variety of alkaloids, brassin glycosides, lotus leaf glycosides and other ingredients, can effectively reduce cholesterol and triglycerides, has a good effect on hyperlipidemia and obese patients.Lotus leaf infusion and decoction can expand blood vessels, clear heat and relieve heat, and lower blood pressure.Some experts pointed out that lotus leaf is a good medicine for weight loss.Which of the following
+
+Question:
+
+If it is true, can it most support the opinions of the above experts?
+
+Options:
+
+A. Lotus leaf promotes gastrointestinal motility and clears the body of stool;
+B. Lotus leaf tea is a food, not a medicine, which has the advantages of non-toxicity and safety;
+C. Lotus leaf tea becomes a liquid food after soaking in water, and is quickly absorbed in the stomach for a short time, with higher concentration and greater irritation.
+D. After taking lotus leaf products, a layer of fat isolation film is formed on the human intestinal wall, which can effectively prevent the absorption of fat;
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,0_to_39
+14,group_3,B,"[""B"", ""B"", ""B"", ""B"", ""B""]",B,1.0,True,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+On August 3, 2003, a ""human fossil of 110,000 years ago"" was unearthed from the Zhangkoudong ancient human site in Jiuxiang, Yiliang County.The announcement of this excavation immediately attracted wide attention from the media and experts.Many experts who participated in the excavation believe that the appearance of this human tooth fossil indicates that Zhangkoudong had human activities as early as 110,000 years ago.It will rewrite the Kunming area defined by the ancient human ruins of Longtan Mountain in Chenggong County.Mankind has only 30,000 years of history.
+
+Question:
+
+Which of the following, if true, most doubts the opinions of the above experts?
+
+Options:
+
+A. Academics are inherently controversial, and everyone has the right to express their opinions;
+B. Some experts analyzed the fossil's long axis, crown shape, crown lip and tongue surface protrusion and enamel, etc., that this fossil is not a human incisor fossil, but a deer tooth fossil;
+C. This tooth fossil was excavated in the red sand layer 20 cm below the calcium plate 110,000 years ago;
+D. Some experts used the uranium method to date the calcium plates of each layer of Zhangkou Cave, and proved that the earliest deposits of the fossil tooth were formed 300,000 years ago;
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,0_to_39
+15,group_1,D,"[""D"", ""D"", ""C"", ""B"", ""D""]",D,0.6,True,False,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: C"", ""Final Answer: B"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+In the recruitment examination for the public selection of deputy chiefs in a certain department, a total of 7 people were registered as A.B, C, D, E, G and G.According to statistics, the highest academic qualifications among the 7 people are undergraduate and doctor.Among them there are 3 people who graduated with Ph.D .; 3 women.It is known that? A.B, and C have the same educational level, while G and G have different educational levels; E, G, and G have the same gender, and A and D have different genders.The final appointment was a female doctor.
+
+Question:
+
+Based on the above statement, which of the following can be derived?
+
+Options:
+
+A. A is a male doctor;
+B. I am a female doctor;
+C. C? Geng is not a male doctor;
+D. D? Ding is a female doctor.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",1.371,0_to_39
+16,group_2,C,"[""C"", ""C"", ""C"", ""C"", ""C""]",C,1.0,True,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+There are five stations set up from west to east along a section of the high-speed railway along the river.It is known that Fuyi Station is east of Haoyun Station and West of Huyao Station, and is adjacent to Huyao Station; Jiushang Station is adjacent to Yinling Station.
+
+Question:
+
+Based on the above information, regarding the order of the five stations from west to east, which of the following is possible?
+
+Options:
+
+A. Yinling Station, Haoyun Station, Jiushang Station, Fuyi Station, Hu Yao Station;
+B. Fuyi Station, Hu Yao Station, Jiushang Station, Yinling Station, Haoyun Station;
+C. Haoyun Station, Yinling Station, Jiushang Station, Fuyi Station, Hu Yao Station;
+D. Haoyun Station, Hu Yao Station, Fuyi Station, Yinling Station, Jiushang Station;
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,0_to_39
+17,group_3,A,"[""A"", ""A"", ""A"", ""A"", ""C""]",A,0.8,True,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+There are five stations set up from west to east along a section of the high-speed railway along the river.It is known that Fuyi Station is east of Haoyun Station and West of Huyao Station, and is adjacent to Huyao Station; Jiushang Station is adjacent to Yinling Station.
+
+Question:
+
+If Jiushang Station is adjacent to Haoyun Station and east of Haoyun Station, it can be concluded that?
+
+Options:
+
+A. Hu Yao is standing on the east side;
+B. Fuyi is standing in the west;
+C. Yinling is standing on the east side;
+D. Leek standing on the west side;
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,0_to_39
+18,group_1,B,"[""C"", ""B"", ""B"", ""C"", ""B""]",B,0.6,True,False,"[""Final Answer: C"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: C"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+There are five stations set up from west to east along a section of the high-speed railway along the river.It is known that Fuyi Station is east of Haoyun Station and West of Huyao Station, and is adjacent to Huyao Station; Jiushang Station is adjacent to Yinling Station.
+
+Question:
+
+If Hao Yun stands to the east of Jiushang Station, you can get?
+
+Options:
+
+A. Yinling Station is adjacent to Haoyun Station and west of Haoyun Station;
+B. Haoyun Station is adjacent to Fuyi Station and west of Fuyi Station;
+C. Jiushang Station is adjacent to Haoyun Station and west of Haoyun Station;
+D. Yinling Station is adjacent to Fuyi Station and west of Fuyi Station;
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.971,0_to_39
+19,group_2,D,"[""D"", ""D"", ""D"", ""D"", ""A""]",D,0.8,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+There are five stations set up from west to east along a section of the high-speed railway along the river.It is known that Fuyi Station is east of Haoyun Station and West of Huyao Station, and is adjacent to Huyao Station; Jiushang Station is adjacent to Yinling Station.
+
+Question:
+
+If Haoyun Station is adjacent to Yinling Station, you can get?
+
+Options:
+
+A. Yinling is standing west of Haoyun Station
+B. Fuyi standing west of Jiushang Station
+C. Hao Yun stands west of Yinling Station
+D. Jiu Shang standing west of Fuyi Station
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,0_to_39
+20,group_3,B,"[""A"", ""A"", ""A"", ""A"", ""A""]",A,1.0,False,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Leeds lived in the middle Jurassic about 165 million years ago.It is a huge fish in the dinosaur era.Leeds can grow up to 9 meters long within 20 years of birth, with an average life span of about 40 years.The largest body length can even reach 16.5 meters.This size is comparable to the largest whale shark in modern times, and the average lifespan of the whale shark is about 70 years, so the growth rate of Leeds is likely to exceed that of the whale shark.
+
+Question:
+
+Which of the following, if true, can best refute the above argument?
+
+Options:
+
+A. Leeds fish and whale sharks feed on plankton and small animals in the ocean, and the growth rate cannot be significantly different.
+B. Although the lifespan of the Leeds fish and the whale shark differ greatly, they all reach adulthood around the age of 20, and their body shape is basically fixed.
+C. Although the lifespan of fish is different, their growth stages basically correspond to their juvenile, adult, middle-aged and elderly
+D. There is no obvious change in the growth cycle of Jurassic fish and modern fish
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,0_to_39
+21,group_1,A,"[""A"", ""A"", ""A"", ""A"", ""A""]",A,1.0,True,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+In 27.3 years, three canoes were continuously excavated on the Huai River beach in Xinyang County, Henan.Among them, in 2010, the first canoe was discovered under the Huaihe River beach in the Zhangzhuang Formation of Xuzhuang Village, Chengjiao Township, Xixian County, which was proved to be one of the earliest and largest canoe in China.The canoe is 9.3 meters long, 0.8 meters wide and 0.6 meters high.According to carbon-14 measurement, the materials for these canoes are exactly the same as the wood produced in tropical regions of Yunnan.This shows that in ancient times more than 3,000 years ago, the climate in Henan was very similar to the tropical climate.The climate on both sides of the middle and lower reaches of the Huaihe River is warm and humid, with tall and dense forests and a wide variety of animals and plants.
+
+Question:
+
+Which of the following, if true, will best support the above argument?
+
+Options:
+
+A. The raw materials of these canoes cannot be transported from the distant Yunnan virgin forest, they can only be obtained locally
+B. These canoes have been soaked in water for thousands of years and are very heavy
+C. The place where the Qi Zhou Qiu Jian story takes place is the Chu area, including south of Xuchang, Henan
+D. The canoe hull is pointed at both ends and is chiseled from a complete log for better preservation
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,0_to_39
+22,group_2,C,"[""B"", ""B"", ""B"", ""B"", ""D""]",B,0.8,False,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+In a study, 51 middle school student volunteers were divided into a test group and a control group to receive the same mathematics training.During the five-day training, the researchers used a technique called transcranial random noise stimulation to lightly shock the areas of the brains of 25 test group members that were considered to be related to computing power.The subsequent test results showed that the mathematics ability of the test group members was significantly higher than that of the control group members.To their surprise, the effect of this ability improvement can last at least half a year.The researchers therefore believe that micro-shocks in the brain can improve the brain's computing power.
+
+Question:
+
+Which of the following, if true, best supports the above researchers ’views?
+
+Options:
+
+A. This non-invasive stimulus is inexpensive and will not cause any pain to the human body
+B. After a slight electric shock to the brain, the blood flow between the neurons in the brain is significantly enhanced, but it returns to normal after multiple stimulations
+C. Before the experiment, the mathematics scores of the two groups of students were almost the same
+D. Subjects with microshocks in the brain are more concerned about their behavior, and their concentration is more focused during the test
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,0_to_39
+23,group_3,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+An institution conducted a survey on the average house prices of three types of residential housing in three cities (A.B, and C) in eastern China (these are villas, ordinary commercial houses, and affordable housing from high to low), and the published information includes The following content? according to the price of villa houses, from high to low are A City, B City, and C City; according to the price of ordinary commercial houses, from high to low are A City, B City, and B City; according to affordable housing prices , From high to low are B city, A city, C city.
+
+Question:
+
+Regarding the overall average price of residential housing in the above three cities, which of the following judgments is wrong?
+
+Options:
+
+A. The overall average price of residential housing in A City is the highest
+B. The overall average price of residential housing in City B is in the middle
+C. The overall average price of residential housing in Cingcheng is the lowest
+D. The overall average price of residential housing in A City is the lowest
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,0_to_39
+24,group_1,A,"[""A"", ""A"", ""A"", ""A"", ""A""]",A,1.0,True,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+The secret of the “age” of human male and female ancestors is hidden in the Y chromosome and mitochondria.The Y chromosome only passes from father to son, while mitochondria only pass from mother to daughter.Looking back through these two genetic materials, we can find that all men have a common male ancestor ""Y chromosome Adam"", and all women have a common female ancestor ""mitochondrial Eve"".The researchers conducted genome sequencing and comparative analysis of 69 males from nine different populations, such as Asia, Africa, and Latin America, and found that this male common ancestor ""Y chromosome Adam"" was formed about 156,000 to 120,000 years ago.Using the same technical analysis of mitochondria, the researchers also calculated that this female common ancestor ""mitochondrial Eve"" was formed between 148,000 and 99,000 years ago.
+
+Question:
+
+Which of the following is most appropriate as a corollary of the above discussion?
+
+Options:
+
+A. ""Y chromosome Adam"" and ""mitochondrial Eve"" were formed in the same period, and ""age"" is close, ""Y chromosome Adam"" may be earlier.
+B. 15 years ago, there was only one man ""Adam"" on earth
+C. As two individuals, ""Adam"" and ""Eve"" should never meet
+D. Men and women are born together and have conceived modern humans together
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,0_to_39
+25,group_2,B,"[""B"", ""B"", ""B"", ""B"", ""B""]",B,1.0,True,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Research has found that insects “breathe” through the stomata system on their bodies.The stomata are connected to the trachea, and more and more layers of smaller and smaller air are attached from top to bottom, thereby bringing oxygen to the whole body.At the current level of oxygen in the atmosphere, the total length of the stomata system has reached the limit; if the total length exceeds this limit, the oxygen supply capacity will be insufficient.Therefore, it can be judged that the amount of oxygen content can determine the size of insects.
+
+Question:
+
+Which of the following, if true, would best support the above argument?
+
+Options:
+
+A. Studies of invertebrates in the ocean have also found that in colder water and with higher oxygen content, the organisms there are also larger
+B. During the Carboniferous period, the concentration of oxygen in the earth ’s atmosphere was as high as 35%, much higher than the current 21%.At that time, there were many giant insects on the earth, and the wingspan of the dragonfly was close to one meter.
+C. Small locusts cannot survive in a low-oxygen environment, especially in an environment with an oxygen concentration below 15%.Adult locusts can survive in an environment with 2% oxygen
+D. Under the environment with high oxygen content and high air pressure, the tested fruit flies lived to the fifth generation and their body size increased by 20%
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,0_to_39
+26,group_3,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+A certain class intends to select two of three girls from Fang Rufen, Guo Yanran, He Zhilian, and three from five male students such as Peng Youwen, Qiu Zhijie, Ren Xiangyang, Song Wenkai, Tang Xiaohua to form a five-person support group for college students to volunteer teaching in the mountains.Requirements? (1) Guo Yanran and Tang Xiaohua are not selected at the same time; (2) Peng Youwen and Song Kaiwen are not selected at the same time; (3) Qiu Zhijie and Tang Xiaohua are not selected at the same time.
+
+Question:
+
+Which of the following must be selected?
+
+Options:
+
+A. Fang Rufen
+B. Guo Yanran
+C. Song Kaiwen
+D. Ren Xiangyang
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,0_to_39
+27,group_1,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+A certain class intends to select two of three girls from Fang Rufen, Guo Yanran, He Zhilian, and three from five male students such as Peng Youwen, Qiu Zhijie, Ren Xiangyang, Song Wenkai, Tang Xiaohua to form a five-person support group for college students to volunteer teaching in the mountains.Requirements? (1) Guo Yanran and Tang Xiaohua are not selected at the same time; (2) Peng Youwen and Song Kaiwen are not selected at the same time; (3) Qiu Zhijie and Tang Xiaohua are not selected at the same time.
+
+Question:
+
+If Guo Yanran is selected, which of the following must also be selected?
+
+Options:
+
+A. Fang Rufen
+B. He Zhilian
+C. Peng Youwen
+D. Qiu Zhijie
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,0_to_39
+28,group_2,A,"[""A"", ""A"", ""A"", ""A"", ""A""]",A,1.0,True,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+A certain class intends to select two of three girls from Fang Rufen, Guo Yanran, He Zhilian, and three from five boys, including Peng Youwen, Qiu Zhijie, Ren Xiangyang, Song Wenkai, and Tang Xiaohua, to form a five-person support group for university students to volunteer teaching in the mountains.Requirements? (1) Guo Yanran and Tang Xiaohua are not selected at the same time; (2) Peng Youwen and Song Kaiwen are not selected at the same time; (3) Qiu Zhijie and Tang Xiaohua are not selected at the same time.
+
+Question:
+
+If He Zhilian is not selected, which of the following is not selected?
+
+Options:
+
+A. Tang Xiaohua
+B. Peng Youwen
+C. Qiu Zhijie
+D. Song Wenkai
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,0_to_39
+29,group_3,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+A certain class intends to select two of three girls from Fang Rufen, Guo Yanran, He Zhilian, and three from five boys, including Peng Youwen, Qiu Zhijie, Ren Xiangyang, Song Wenkai, and Tang Xiaohua, to form a five-person support group for university students to volunteer teaching in the mountains.Requirements? (1) Guo Yanran and Tang Xiaohua are not selected at the same time; (2) Peng Youwen and Song Kaiwen are not selected at the same time; (3) Qiu Zhijie and Tang Xiaohua are not selected at the same time.
+
+Question:
+
+If Tang Xiaohua is selected, which two of the following must be selected?
+
+Options:
+
+A. Fang Rufen and Guo Yanran
+B. Guo Yanran and He Zhilian
+C. Peng Youwen and He Zhilian
+D. Fang Rufen and He Zhilian
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,0_to_39
+30,group_1,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""The scientists infer that a small eye socket indicates the animal was likely active during the day. To support this inference we need a statement that links eye size (or orbital size) with activity pattern, showing that larger eyes are associated with nocturnal habits, implying that a small eye socket suggests diurnal behavior. \n\nOption\u202fD states that \u201cAnimals dominated by nocturnal activities, generally have larger eyes,\u201d directly providing that link. Therefore, it best supports the speculation.\n\n**Final Answer: D**""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+From the ""Aklyusian monkey"", the researchers discovered the characteristics of many apes.For example, a bone in its heel is short and wide.In addition, the ""Aklyusian monkey"" has a small eye socket, and scientists speculate that it is active during the day, just like the ancestors of the early apes.
+
+Question:
+
+Which of the following, if true, best supports the above-mentioned scientists ’speculation?
+
+Options:
+
+A. The short and wide hind bone makes this primate good at jumping and preying in the bushes
+B. There is no strict proportional relationship between animal vision and orbital size
+C. The time when the earliest great apes separated from other primates was at least 55 million years ago
+D. Animals dominated by nocturnal activities, generally have larger eyes
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,0_to_39
+31,group_2,C,"[""D"", ""C"", ""D"", ""C"", ""D""]",D,0.6,False,False,"[""Final Answer: D"", ""Final Answer: C"", ""Final Answer: D"", ""Final Answer: C"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Conne Levi with a ""moe"" look looks like other newborns.But because it is the world's first test-tube baby screened by next-generation gene sequencing technology, his advent has attracted the attention of experts and scholars.Not long ago, this news detonated the audience at the ""European Society of Human Reproduction and Embryology Annual Meeting"" held in London, England.And ordinary people also believe that humans may usher in the era of ""customized babies"".
+
+Question:
+
+Which of the following, if true, would best refute the views of ordinary people?
+
+Options:
+
+A. ""Artificial"" genetic screening does not rule out that there will be loopholes; in natural conception, the guidelines for survival of the fittest in nature seem to be more subtle and effective
+B. It can be seen from the development history of modern science and technology that technological development is often faster than human cognition, and sometimes technology will go further and deviate from the track of human cognition
+C. Gene screening is mainly to avoid reproductive defects, this technology brings opportunities for human eugenics and eugenics; as for ""customized babies"", the concept of cloning is more involved, the two should not be confused
+D. ""Customized babies"" have not been tried globally, this concept also challenges the most controversial human reproductive ethics
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.971,0_to_39
+32,group_3,A,"[""C"", ""C"", ""C"", ""C"", ""C""]",C,1.0,False,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+The basis of life-the main component of protein is an amino acid molecule.It is an organic molecule.Although people have not directly observed amino acid molecules in cosmic space, scientists have used hydrogen, water, oxygen, methane and formaldehyde in the laboratory to simulate the natural conditions of space.Kinds of amino acids.The raw materials used to synthesize amino acids are abundant in interstellar molecules.It is not difficult to imagine that there must also be amino acid molecules in the universe.As long as there is an appropriate environment, they may be transformed into proteins and further develop into organic life.According to this speculation, there are living bodies on other planets than the earth, and may even be living bodies with higher intelligence.
+
+Question:
+
+Which of the following is true to best refute the above speculation?
+
+Options:
+
+A. There is a huge difference between the process of developing from protein to organic life and the process from organic molecules to protein
+B. Higher intelligence is not only a product of material evolution, but also a product of continuous socialization
+C. In the natural environment, the synthesis of amino acid molecules from existing interstellar molecules is a small probability event
+D. Some interstellar molecules are not found in the Earth ’s environment, and they are still not available in the laboratory
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,0_to_39
+33,group_1,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+To date, the oldest Homo sapiens remains have appeared in Africa, about 200,000 years ago.According to this, many scientists believe that humans originated in Africa, and Homo sapiens, the direct ancestor of modern people, evolved in Africa about 200,000 years ago, and then slowly migrated northwards about 150,000 to 200,000 years ago , Crossing the Middle East to Europe and Asia, and gradually migrating to other parts of the world.
+
+Question:
+
+Which of the following, if true, can best refute the views of the above scientists?
+
+Options:
+
+A. Modern Homo sapiens, living in the late Paleolithic period, about 40,000 to 10,000 years ago.There are hundreds of places where late Homo sapiens fossils or cultural sites have been found in our country
+B. In an archaeological excavation in South America, people discovered the fossils of Homo sapiens skulls that lived about 170,000 years ago
+C. Homo sapiens have the extraordinary ability to communicate with each other, make plans, and solve difficult problems
+D. Eight Homo sapiens teeth 400,000 years ago were discovered in the Qesem cave 12 km east of Tel Aviv, Israel
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,0_to_39
+34,group_2,C,"[""A"", ""A"", ""A"", ""A"", ""A""]",A,1.0,False,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+By analyzing the light released or absorbed by the atoms of an object, you can measure whether the object is far away from the earth or close to the earth.When the object is far away from the earth, the frequency of these lights will move to the red end (low frequency) of the spectrum, referred to as ""red shift"" ""On the contrary, it is called"" blue shift "".The unique light emitted by the atoms is also affected by the mass of the elementary particles that make up the atoms, especially the electrons.If the mass of an atom increases, the energy of the photons it releases will also become higher, so the release and absorption frequencies will be blue-shifted.Conversely, if the particles become lighter and lighter, the frequency will be red-shifted.Astronomical observations have found that most galaxies have a redshift phenomenon.Moreover, the farther the galaxy is from the earth, the greater the redshift.According to this, many scientists believe that the universe must be constantly expanding.
+
+Question:
+
+Which of the following, if true, can best refute the views of the above scientists?
+
+Options:
+
+A. In the distant universe, some blue-shifted objects were also found
+B. The earth is not in the center of the universe
+C. The stars that people can observe may be less than one percent of the real universe
+D. From the perspective of other celestial bodies in the universe, redshift is also an absolute dominant phenomenon
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,0_to_39
+35,group_3,A,"[""C"", ""C"", ""C"", ""C"", ""C""]",C,1.0,False,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+A company has a 6-story office building.The company's finance department, planning department, administration department, sales department, human resources department, and research and development department work here, and each department occupies one of the floors.Known? (1) The two floors of the human resources department and the sales department are not adjacent; (2) The finance department is on the next floor of the planning department; (3) The floor of the administrative department is above the planning department, but in the manpower Below the Resources Department.
+
+Question:
+
+In order from bottom to top, which of the following matches the distribution of the above floors?
+
+Options:
+
+A. Finance Department, Planning Department, Administration Department, Human Resources Department, R & D Department, Sales Department
+B. Finance Department, Planning Department, Administration Department, Human Resources Department, Sales Department, R & D Department
+C. Planning Department, Finance Department, Sales Department, R & D Department, Administration Department, Human Resources Department
+D. Sales Department, Finance Department, Planning Department, R & D Department, Human Resources Department, Administration Department
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,0_to_39
+36,group_1,B,"[""A"", ""B"", ""B"", ""B"", ""B""]",B,0.8,True,True,"[""Final Answer: A"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+A company has a 6-story office building.The company's finance department, planning department, administration department, sales department, human resources department, and research and development department work here, and each department occupies one of the floors.Known? (1) The two floors of the human resources department and the sales department are not adjacent; (2) The finance department is on the next floor of the planning department; (3) The floor of the administrative department is above the planning department, but in the manpower Below the Resources Department.
+
+Question:
+
+If the Human Resources Department is not at the upper level of the Administration Department, which of the following may be correct?
+
+Options:
+
+A. The sales department is on the upper level of the R & D department
+B. The sales department is one level above the administrative department
+C. The sales department is at the next level of the planning department
+D. Sales Department is on the second floor
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,0_to_39
+37,group_2,D,"[""D"", ""B"", ""D"", ""D"", ""D""]",D,0.8,True,True,"[""Final Answer: D"", ""Final Answer: B"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+A company has a 6-story office building.The company's finance department, planning department, administration department, sales department, human resources department, and research and development department work here, and each department occupies one of the floors.Known? (1) The two floors of the human resources department and the sales department are not adjacent; (2) The finance department is on the next floor of the planning department; (3) The floor of the administrative department is above the planning department, but in the manpower Below the Resources Department.
+
+Question:
+
+If the human resources department is not on the top floor, the floors that the R & D department may be on are?
+
+Options:
+
+A. 3, 4, 6
+B. 3, 4, 5
+C. 4, 5
+D. 5, 6
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,0_to_39
+38,group_3,B,"[""C"", ""C"", ""C"", ""A"", ""D""]",C,0.6,False,False,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: A"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+A company has a 6-story office building.The company's finance department, planning department, administration department, sales department, human resources department, and research and development department work here, and each department occupies one of the floors.Known? (1) The two floors of the human resources department and the sales department are not adjacent; (2) The finance department is on the next floor of the planning department; (3) The floor of the administrative department is above the planning department, but in the manpower Below the Resources Department.
+
+Question:
+
+If the Finance Department is on the third level, which of the following may be correct?
+
+Options:
+
+A. The R & D department is on the fifth floor
+B. The R & D department is on the upper level of the sales department
+C. The Administration Department is not on the upper level of the Planning Department
+D. The sales department is on a certain layer above the planning department
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",1.371,0_to_39
+39,group_1,C,"[""C"", ""C"", ""B"", ""D"", ""D""]",C,0.4,True,False,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: B"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+A company has a 6-story office building.The company's finance department, planning department, administration department, sales department, human resources department, and research and development department work here, and each department occupies one of the floors.Known? (1) The two floors of the human resources department and the sales department are not adjacent; (2) The finance department is on the next floor of the planning department; (3) The floor of the administrative department is above the planning department, but in the manpower Below the Resources Department.
+
+Question:
+
+Which of the following may be the two departments where the first and second tiers are located?
+
+Options:
+
+A. Finance Department, Sales Department
+B. Planning Department, Sales Department
+C. R & D Department and Sales Department
+D. Sales Department, Planning Department
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",1.522,0_to_39
+40,group_2,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+All landscape rooms can see the landscape, but Li Wenbing's family can't see the landscape.Therefore, Li Wenbing's family is not a landscape room.
+
+Question:
+
+Which of the following is most similar to the above argument?
+
+Options:
+
+A. Kind people will be respected by the villagers, Chenggong who is kind and charitable will be respected by the villagers, so Chenggong is a kind person
+B. Vegetables in Dongdun Market are very cheap.This basket of vegetables is not bought in Dongdun Market.Therefore, this basket of vegetables is not cheap
+C. Employees of Jiutian Company can speak English, Lin Yingrui is an employee of Jiutian Company, therefore, Lin Yingrui can speak English
+D. Anyone who meets the basic conditions can apply for a small loan.Sun Wen did not apply for a small loan.Therefore, Sun Wen did not meet the basic conditions
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,40_to_79
+41,group_3,A,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,False,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Chili relieves indigestion."" People who suffer from indigestion after eating a hot meal may be shocked when they see this sentence, and they can't believe it.However, the conclusions made by Italian experts through experiments are the same.They gave the experimenters suffering from indigestion to take the tablets containing chili before meals.After 5 weeks, 60% of the experimenters' discomfort symptoms were relieved.
+
+Question:
+
+Which of the following, if true, would best refute the above experimental conclusion?
+
+Options:
+
+A. The capsaicin contained in chili can hinder the secretion of a neurotransmitter to a certain extent
+B. In this experiment, 5% of the experimenters' discomfort symptoms worsened
+C. In another group of subjects who took the pill after meals, 55% of the subjects' symptoms were alleviated
+D. After paying attention to a healthy diet, patients with dyspepsia will generally ease the symptoms of discomfort within one month
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,40_to_79
+42,group_1,B,"[""B"", ""B"", ""B"", ""B"", ""B""]",B,1.0,True,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Aptripa Cave is located near the bay of Dilos in the Peninsula of Maina, and is as large as four football fields.This cave dates back to the Neolithic Age, but was not accidentally discovered by a man walking a dog until the 1950s.After decades of scientific research work, archaeologists excavated tools, pottery, obsidian, silver and copper utensils from the cave, and thus believed that hundreds of people had lived in the cave.
+
+Question:
+
+Which of the following, if true, can best refute the above argument?
+
+Options:
+
+A. The cave inspired the description of hell in Greek mythology
+B. The cave is actually an ancient cemetery and funeral venue
+C. There is no prehistoric village in Europe that has been found earlier than the cave
+D. The entrance to the cave collapsed 5000 years ago
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,40_to_79
+43,group_2,C,"[""C"", ""C"", ""C"", ""C"", ""C""]",C,1.0,True,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Researchers in a country reported that they found meteorites about 200 million years old in the strata of a certain area, and they were probably traces of flying objects when a huge meteorite hit the present province of Quebec, Canada.The clay layer with a thickness of about 5 cm also contains high concentrations of elements such as iridium and platinum, which are 50 to 2000 times the concentration normally found on the ground.In addition, this rock also contains special minerals in the formation of the late Bacques.Since the upper and lower strata also contain marine plankton fossils, it can be determined that the impact period was about 215 million years ago.
+
+Question:
+
+Which of the following, if true, would best support the above research findings?
+
+Options:
+
+A. The rock was formed after the accumulation layer of the deep seabed in the ancient times exposed above the ground
+B. In the late Paleozoic Triassic (approximately 200 million to 237 million years ago) ammonite and other species were extinct on a large scale
+C. Elements such as iridium and platinum are peculiar to meteorites and usually only exist in trace amounts on the surface
+D. In ancient times, there have been many incidents of meteorite impacting the earth
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,40_to_79
+44,group_3,D,"[""D"", ""A"", ""A"", ""A"", ""A""]",A,0.8,False,True,"[""Final Answer: D"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+A newly recruited researcher in 2013 by a scientific research unit, or ""introduced talent"" with a deputy high title or above, or a fresh graduate PhD student with Beijing household registration.The fresh graduate PhD students live in postdoctoral apartments, and the ""introduced talents"" all live in the ""Peony Garden"" community.
+
+Question:
+
+Regarding the newly recruited researchers of the unit in 2013, which of the following judgments is correct?
+
+Options:
+
+A. None of those who live in postdoctoral apartments have deputy senior titles or above
+B. Those who have a Ph.D.have Beijing household registration
+C. None of the people living in the ""Peony Garden"" community have a doctorate
+D. All non-graduate PhD students live in the ""Peony Garden"" community
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,40_to_79
+45,group_1,A,"[""C"", ""C"", ""C"", ""D"", ""C""]",C,0.8,False,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: D"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Recently, discussions on whether to gradually extend the retirement age have been launched on the Internet.According to a month's blog statistics from a discussion column on this issue on a website, about half of the blog posts with more than 200 words that give reasons agree to gradually extend the retirement age to alleviate the social security pressure caused by the aging population; About 80% of the blog posts opposed extending the retirement age, mainly because of the negative impact on youth employment.
+
+Question:
+
+Which of the following, if true, best supports the idea of ​​gradually extending the retirement age?
+
+Options:
+
+A. Many people now find a second career after going through retirement procedures
+B. Respecting the elderly and loving children is a fine tradition in China for thousands of years, which should be carried forward
+C. The employment problem of young people should be solved by economic development and transformation and upgrading
+D. Due to the implementation of the one-child policy for many years, China's aging problem will be more acute than many Western developed countries
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,40_to_79
+46,group_2,D,"[""B"", ""B"", ""B"", ""B"", ""B""]",B,1.0,False,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+A certain online forum made a statistical comparison of posts about social issues published by netizens in the past year and 5 years ago, and found that posts such as money-gathering, poverty alleviation, and bravery have increased such posts by 50%.Posts related to evildoing, escaping evil, and killing more people have increased by 90%.This shows that the social atmosphere is rapidly deteriorating.
+
+Question:
+
+Which of the following, if true, would weaken the above argument most?
+
+Options:
+
+A. ""Good things don't go out, bad things spread thousands of miles."" Throughout the ages
+B. The number of Internet users has quadrupled in the past 5 years
+C. In recent years, some people have used rumors online to achieve profit-making purposes.
+D. The online forum is a legal forum
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,40_to_79
+47,group_3,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+On November 17, 2012, the ""Tianhe No.1"" supercomputer developed by the National University of Defense Technology became the world's fastest computing speed with a peak speed of 4700 trillion times and a continuous speed of 2568 trillion floating-point operations per second Computer.Less than three years later, at the 2013 International Supercomputer Conference in Leipzig, Germany on June 17, 2013, the international TOP500 organization announced the latest list of the world's top 500 supercomputers.The ""Tianhe 2"" developed by the National University of Defense Technology topped the list with its peak calculation speed of 549 million times per second and continuous calculation speed of 339 million times per second.Compared to the US ""Titanium"" supercomputer, which ranked first in the world, the calculation speed is twice that of the latter.
+
+Question:
+
+Which of the following is most suitable as a corollary of the above discussion
+
+Options:
+
+A. Only the United States and China can make supercomputers in the world
+B. Only China National Defense University has successfully developed a supercomputer
+C. Only the supercomputers in the United States and China have been ranked first in the world in terms of computing speed
+D. China's ""Tianhe 2"" computing speed is clearly ahead of other supercomputers
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,40_to_79
+48,group_1,C,"[""C"", ""C"", ""C"", ""C"", ""C""]",C,1.0,True,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+With the help of animal fossils and DNA retained in specimens, and using increasingly advanced cloning and genetic techniques, humans have been able to ""resurrect"" some already extinct animals, such as mammoths, dodos, dinosaurs, etc.At the same time, the scientific community also started a big discussion about whether humans should revive extinct animals.Supporters believe that reanimated animals are expected to restore the damaged ecological environment in some areas.For example, Mammoths live on the vast grasslands of Siberia, and their excrement is an excellent fertilizer to nourish the grasslands.After the mammoth became extinct, grasslands lacking fertilizer were gradually replaced by tundra.If the mammoth can be resurrected and returned to Siberia, it will help reduce the area of ​​tundra and gradually restore the grassland ecosystem.
+
+Question:
+
+Which of the following, if true, would best refute the arguments of the above supporters?
+
+Options:
+
+A. If you invest a lot of time, energy and cost to resurrect the disappeared creatures, it will inevitably contain and weaken the protection of existing endangered animals, and the result will not be worth the loss.
+B. Merely cloning an individual of an extinct animal does not mean that humans have the ability to resurrect the entire population
+C. Even if the extinct animals can be resurrected in batches, the habitat suitable for their growth may have long since disappeared.If you can not give heavy organisms a suitable environment for survival, all efforts will be in vain
+D. The vast majority of these animals gradually disappeared in the course of human development.It was human activities that led to their extinction
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,40_to_79
+49,group_2,B,"[""B"", ""B"", ""B"", ""B"", ""B""]",B,1.0,True,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Many pregnant women have symptoms of vitamin deficiency, but this is usually not due to the lack of vitamins in the diet of pregnant women, but because of the growth of babies in the abdomen, they have a higher demand for vitamins than others.
+
+Question:
+
+Which of the following is most important for evaluating the above conclusion?
+
+Options:
+
+A. Test the daily diet of some pregnant women who do not lack vitamins to determine the vitamin content.
+B. Test pregnant women and other women who have enough vitamins in their daily diet to determine whether they lack vitamins.
+C. Test pregnant women and other women with insufficient vitamins in their daily diet and determine whether they are deficient in vitamins.
+D. Test the daily diet of some pregnant women who lack vitamins to determine the content of vitamins.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,40_to_79
+50,group_3,C,"[""C"", ""A"", ""C"", ""C"", ""A""]",C,0.6,True,False,"[""Final Answer: C"", ""Final Answer: A"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+The education system has two aspects, one is compulsory education and the other is higher education.A reasonable education system requires everyone to have the right to compulsory education and to have access to higher education through fair competition.
+
+Question:
+
+Which of the following conclusions can be drawn from the above conclusions?
+
+Options:
+
+A. An education system that does not allow everyone to go to college is unreasonable.
+B. An education system that guarantees everyone to enjoy compulsory education is reasonable.
+C. An education system that does not allow everyone to enjoy the right to compulsory education is unreasonable.
+D. There should be more requirements for a reasonable education system.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.971,40_to_79
+51,group_1,A,"[""B"", ""B"", ""D"", ""B"", ""B""]",B,0.8,False,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: D"", ""Final Answer: B"", ""The inconsistency can be resolved by noting that even with strict investigations, drunk driving has not been eliminated; therefore accidents remain at similar levels. This explains why the data do not yet show a reduction despite the strict policies.\n\nFinal Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+A survey of traffic accidents has found that the incidence of traffic accidents is actually similar in cities where drunk driving is strictly investigated and those who do not.However, most experts believe that strict investigation of drunk driving can indeed reduce the occurrence of traffic accidents.
+
+Question:
+
+Which of the following is most helpful in eliminating this inconsistency?
+
+Options:
+
+A. Severe investigations of drunk driving have occurred in urban traffic accidents.
+B. The city that implements strict investigation of drunk driving has not eliminated drunk driving.
+C. It is more important to improve drivers' traffic safety awareness than strict management.
+D. In addition to strict investigation of drunk driving, other traffic violations should also be stopped.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,40_to_79
+52,group_2,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+On the eve of the Minsk talks of the Ukrainian authorities ’coordination group, the speakers of“ Donetsk People ’s Republic ”and“ Lugansk People ’s Republic ”announced their negotiating positions? if the Ukrainian authorities do not recognize their territories and the special status of Russian, And without stopping its military operations in the southeast, the conflict cannot be resolved.In addition, the two “Republics” insisted on pardoning all militia armed participants and political prisoners.Some Ukrainian observers commented? Do we recognize the special status of these two so-called ""Republics"" and can we resolve the conflict by pardoning the militia?
+
+Question:
+
+The comments of Ukrainian observers are best used to refute which of the following?
+
+Options:
+
+A. Even if the Ukrainian authorities recognize the special status of the two ""Republic"" territories and Russian language, and pardon all militia armed participants and political prisoners, the conflict may still not be resolved.
+B. Even if the conflict is resolved, it is not necessarily because the Ukrainian authorities recognize the ""Republic"" territory and the special status of Russian.
+C. If the conflict is to be resolved, the Ukrainian authorities must recognize the special status of the two ""Republic"" territories and the Russian language, and pardon all militia armed participants and political prisoners.
+D. As long as the Ukrainian authorities recognize the special status of the two ""Republic"" territories and the Russian language, and pardon all militia armed participants and political prisoners, the conflict can be resolved.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,40_to_79
+53,group_3,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+With the rapid development of the Internet, it has become a reality to buy your favorite products without leaving home.Even in countries and regions with low economic development levels, people can satisfy their pursuit of material life through online shopping.
+
+Question:
+
+Which of the following can most question the above view?
+
+Options:
+
+A. As online shopping sales increase, related taxes and fees will also increase.
+B. Even in the era when there is no Internet, people can still buy their favorite products through physical stores.
+C. The display of goods on the Internet cannot fully reflect the real situation.
+D. People's satisfaction with the pursuit of material life depends only on the level of economic development in the region.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,40_to_79
+54,group_1,A,"[""A"", ""A"", ""A"", ""A"", ""A""]",A,1.0,True,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Wang Gang must be a university teacher, because he not only has a doctorate from a prestigious school, but also has more than one year of research experience in a research institution overseas.
+
+Question:
+
+Which of the following can guarantee the correctness of the above statement?
+
+Options:
+
+A. Unless it is a university teacher, it is impossible to have a doctorate from a prestigious school and have more than one year of research experience in an overseas research institution.
+B. In recent years, college teachers have required overseas research experience.
+C. Some middle school teachers also have doctorate degrees and overseas research experience.
+D. Unless they are PhDs and have more than one year of overseas research experience, they cannot become university teachers.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,40_to_79
+55,group_2,B,"[""B"", ""B"", ""B"", ""B"", ""B""]",B,1.0,True,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+If Malaysia Airlines ’passenger plane did not malfunction and was not hijacked by terrorist organizations, it must have been shot down by a missile.If the passenger plane is shot down by a missile, it will be discovered by the satellite; if the satellite finds that the passenger plane is shot down by the missile, it will be announced to the media.
+
+Question:
+
+If you want to get the conclusion that the plane was hijacked by a terrorist organization, which of the following should be added?
+
+Options:
+
+A. The passenger plane was not shot down by the missile.
+B. There were no reports of missiles shooting down the passenger plane, and the passenger plane did not malfunction.
+C. The passenger plane did not malfunction.
+D. The passenger plane malfunctioned and no missiles shot down the passenger plane.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,40_to_79
+56,group_3,C,"[""C"", ""C"", ""C"", ""C"", ""C""]",C,1.0,True,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Making more money makes people happier, at least to some extent.But new research shows that the reverse is also true, and happy people can make more money.Researchers at the University of London, after researching more than 10,000 Americans, found that those with positive emotions who are more satisfied with life as they grow up have higher incomes when they reach the age of 29.
+
+Question:
+
+Which of the following can best question the above research conclusions?
+
+Options:
+
+A. Most of the young people who grew up in wealthier families have a negative attitude towards life.
+B. In addition to emotions, the degree of specialization and work ability will directly affect the income level.
+C. Most young people who are more satisfied with their lives are born in wealthier families, and all have a good professional background.
+D. It should compare the occupational distribution of the respondents.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,40_to_79
+57,group_1,D,"[""D"", ""C"", ""A"", ""A"", ""D""]",D,0.4,True,False,"[""Final Answer: D"", ""Final Answer: C"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Teacher Zhang said? This time, all the students in our class have passed the examination.Therefore, none of the students in our class have passed.
+
+Question:
+
+Which of the following is most similar to the above reasoning?
+
+Options:
+
+A. All the students who passed the bottom-up exam passed the review, so all the students who passed the review passed.
+B. All the students who failed the bottom-up exam did not review well, so the students who did not review well did not pass.
+C. All the students who have participated in the bottom-up examination have been carefully prepared.Therefore, the students who have not taken the bottom-up examination have not been carefully prepared.
+D. All heroes can stand the test, so those who cannot stand the test are not heroes.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",1.522,40_to_79
+58,group_2,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+In the past five years, food prices in City W have increased by an average of 25%.At the same time, residents' food purchases accounted for only about 8% of the city's monthly household income.As a result, the average income of households in City W has increased in the past two years.
+
+Question:
+
+Which of the following is most likely the hypothesis of the above argument?
+
+Options:
+
+A. In the past five years, the living standards of families in City W have generally improved.
+B. Over the past five years, the average price of other commodities in City W, except food, has risen by 25%.
+C. In the past five years, the amount of food purchased by residents of W has increased by 8%.
+D. In the past five years, the amount of food purchased by each household in City W has not changed.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,40_to_79
+59,group_3,B,"[""B"", ""B"", ""B"", ""B"", ""B""]",B,1.0,True,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+The proliferation of private cars in a certain city has aggravated the air pollution in the city, and often caused severe congestion on multiple road sections during the morning and evening peaks.In order to solve this problem, the city government decided to implement all-weather single and double number travel restrictions for private cars, that is, only private cars with ending numbers on odd days are allowed to travel, and only private cars with ending numbers are allowed on even days.
+
+Question:
+
+Which of the following can best question the decision of the city government?
+
+Options:
+
+A. There is a large automobile production company in the city, and the order restriction will definitely affect the automobile sales of the enterprise.
+B. Private car owners in the city generally have two or more private cars.
+C. The owners of private cars in the city are generally wealthy, and they do not care about the fines for violations.
+D. Mass transit is being developed in the city, which will help overcome congestion.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,40_to_79
+60,group_1,A,"[""A"", ""A"", ""A"", ""A"", ""A""]",A,1.0,True,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+All undergraduates who enter the Beijing University for a master's degree without a test have already obtained the recommended qualifications of their schools
+
+Question:
+
+Which of the following means exactly the same as the above assertion?
+
+Options:
+
+A. Undergraduates who do not have the qualifications recommended by their school cannot be exempted from going to Peking University to study for a master's degree.
+B. Undergraduates who go to Nanyang University to study for a master's degree without a test may not obtain the recommended qualifications of their schools.
+C. Undergraduates who have obtained the qualifications recommended by their school may not necessarily be able to enter the university for a master's degree.
+D. In addition to Peking University.Undergraduates can also go to other schools to study for a master's degree.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,40_to_79
+61,group_2,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Compared with mineral water, pure water lacks minerals, and some of them are essential for the human body.Therefore, nutrition expert Lao Zhang suggested that those who regularly drink pure water change their habits and drink more mineral water.
+
+Question:
+
+Which of the following can weaken Lao Zhang ’s suggestion the most?
+
+Options:
+
+A. Most of the nutrients people need are not from drinking water.
+B. What the human body needs is not just minerals.
+C. Drinking water other than pure water and mineral water.
+D. People can get essential minerals from other foods.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,40_to_79
+62,group_3,A,"[""A"", ""A"", ""A"", ""D"", ""A""]",A,0.8,True,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: D"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+An evaluation agency conducted a social survey to evaluate the popularity of books.The results show that the sales of life books exceed the sales of science and technology books, so the popularity of life books is higher than that of science and technology books.
+
+Question:
+
+Which of the following best refutes the above argument?
+
+Options:
+
+A. The sales volume only partially reflects the popularity of the book.
+B. Those who purchase technology books are often highly educated.
+C. The types of life books far exceed the types of science and technology books.
+D. Some books sold may not be read.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,40_to_79
+63,group_1,A,"[""A"", ""B"", ""B"", ""A"", ""A""]",A,0.6,True,False,"[""Final Answer: A"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+The report of the Ministry of Health shows that the cost of health care has indeed increased over the years.It can be seen that the medical conditions enjoyed by each of us have greatly improved.
+
+Question:
+
+Which of the following raises the most serious question to the above conclusion?
+
+Options:
+
+A. The vast majority of health care costs are spent on high-tech intensive care for high-risk patients.
+B. Without increasing costs, our health conditions may also improve.
+C. 70% of the state's allocation to the health sector is for infrastructure construction.
+D. The cost of care for elderly chronic diseases is very large.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.971,40_to_79
+64,group_2,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Five graduate students Zhang, Wang, Li, Zhao, and Liu graduated from a linguistics major in a college of arts of a university in 2014, and were hired by one of the three employers, Tianshu, Tianji, and Tianxuan, and at least one of them was hired by each unit.name.Known? (1) Li was hired by Tianshu; (2) Li and Zhao were not hired by the same unit; (3) Liu and Zhao were hired by the same unit; (4) If Zhang was hired by Tianxuan, then Wang Ye Was hired by Tianxuan.
+
+Question:
+
+Which of the following may be correct?
+
+Options:
+
+A. Li and Liu were hired by the same unit.
+B. Wang, Zhao and Liu were all hired by Tianji.
+C. Only Liu was hired by Tian Xuan.
+D. Only Wang was hired by Tianxuan.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,40_to_79
+65,group_3,C,"[""C"", ""C"", ""C"", ""C"", ""C""]",C,1.0,True,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Five graduate students Zhang, Wang, Li, Zhao, and Liu graduated from a linguistics major in a college of arts of a university in 2014, and were hired by one of the three employers, Tianshu, Tianji, and Tianxuan, and at least one of them was hired by each unit.name.Known? (1) Li was hired by Tianshu; (2) Li and Zhao were not hired by the same unit; (3) Liu and Zhao were hired by the same unit; (4) If Zhang was hired by Tianxuan, then Wang Ye Was hired by Tianxuan.
+
+Question:
+
+Which of the following must be correct?
+
+Options:
+
+A. Zhang and Wang were hired by the same unit.
+B. Wang and Liu were hired by different units
+C. Tianshu hired at most two people.
+D. Tianshu and Tianxuan employ the same number of people.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,40_to_79
+66,group_1,B,"[""A"", ""A"", ""A"", ""A"", ""A""]",A,1.0,False,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Five graduate students Zhang, Wang, Li, Zhao, and Liu graduated from a linguistics major in a college of arts of a university in 2014, and were hired by one of the three employers, Tianshu, Tianji, and Tianxuan, and at least one of them was hired by each unit.name.Known? (1) Li was hired by Tianshu; (2) Li and Zhao were not hired by the same unit; (3) Liu and Zhao were hired by the same unit; (4) If Zhang was hired by Tianxuan, then Wang Ye Was hired by Tianxuan.
+
+Question:
+
+Which of the following is correct, you can determine the employer of each graduate?
+
+Options:
+
+A. Li was hired by Tianshu.
+B. Zhang was hired by Tianxuan.
+C. Zhang was hired by Tianshu.
+D. Liu was hired by Tianji.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,40_to_79
+67,group_2,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Five graduate students Zhang, Wang, Li, Zhao, and Liu graduated from a linguistics major in a college of arts of a university in 2014, and were hired by one of the three employers, Tianshu, Tianji, and Tianxuan, and at least one of them was hired by each unit.name.Known? (1) Li was hired by Tianshu; (2) Li and Zhao were not hired by the same unit; (3) Liu and Zhao were hired by the same unit; (4) If Zhang was hired by Tianxuan, then Wang Ye Was hired by Tianxuan.
+
+Question:
+
+If Liu was hired by Tianxuan, which of the following must be wrong?
+
+Options:
+
+A. Tianxuan hired 3 people.
+B. Li's employer only hired him.
+C. Wang was hired by Tianxuan.
+D. Zhang was hired by Tianxuan.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,40_to_79
+68,group_3,C,"[""A"", ""C"", ""C"", ""C"", ""A""]",C,0.6,True,False,"[""Final Answer: A"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+There are two types of community-organized activities? health care and leisure.The organizer's statistics on all participants found that? the elderly in the community have participated in all health-related activities, and some have participated in all leisure-type activities .
+
+Question:
+
+According to this statistic, which of the following must be true?
+
+Options:
+
+A. Some activities organized by the community do not involve the elderly in the community.
+B. Some elderly people in the community do not participate in any activities organized by the community.
+C. Any activity organized by a community will involve the elderly in the community.
+D. Middle-aged people in the community also participated in community-organized activities.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.971,40_to_79
+69,group_1,A,"[""C"", ""C"", ""A"", ""A"", ""C""]",C,0.6,False,False,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+A national academic conference held by a society receives nearly 1,000 conference papers each time.In order to ensure the quality of the conference communication papers, the academic conference organizing committee decided to select only 10% of the papers from the conference papers as conference communication papers each time.
+
+Question:
+
+The decision of the academic conference organizing committee is most likely based on which of the following assumptions?
+
+Options:
+
+A. There is always a certain percentage of paper quality in every conference paper submitted.
+B. The number of conference papers received each time in the future will not change significantly.
+C. 90% of conference papers do not meet the quality of conference papers.
+D. The academic conference organizing committee can make accurate judgments on the quality of the paper.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.971,40_to_79
+70,group_2,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+A blogger declared? ""My analysis of the future trend of housing prices has received more than 1,000 netizens' follow-up posts.I counted them, and 85% of the follow-up posts agree with my opinion.This shows Most people agree with me.""
+
+Question:
+
+Which of the following can best question the blogger ’s conclusion?
+
+Options:
+
+A. Although some people agree with his views, they do not agree with his analysis.
+B. The blogger's other articles with higher approval ratings later proved to be wrong.
+C. Some of the objections to the post are more fully justified.
+D. Most people who follow this blogger's article are their loyal fans.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,40_to_79
+71,group_3,B,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,False,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+In judicial trials, the so-called affirmative misjudgment refers to convicting an innocent person as guilty, referred to as misjudgment? negative misjudgment refers to convicting a guilty person as innocent, referred to as misplacement.The fundamental principle of judicial justice is ""to not let a bad person go, not to injustice a good person"".A jurist believes that measuring whether a court implements the principles of judicial justice well in handling cases depends on whether its rate of positive misjudgments is low enough.
+
+Question:
+
+Which of the following can most strongly support the views of the above jurists?
+
+Options:
+
+A. The accuracy of handling cases in various courts has improved significantly.
+B. The negative misjudgment rate of each court is basically the same.
+C. Wrong judgment rather than misplacement is a reflection of the ""left"" thinking in the judiciary.
+D. Most of the losses caused by misplacement are remedyable; the damage caused by the misjudgment to the victim is irreparable.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,40_to_79
+72,group_1,D,"[""A"", ""C"", ""C"", ""A"", ""C""]",C,0.6,False,False,"[""Final Answer: A"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: A"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+As long as there are scammers in this society and some people have greed in their hearts, then someone must be cheated.So if society progresses so that no one is deceived, then people in that society must have universally eliminated greed.
+
+Question:
+
+Which of the following best supports the above argument?
+
+Options:
+
+A. The greater the greed, the easier it is to be deceived.
+B. The society has improved, and the scammers will no longer exist.
+C. With the progress of society, the quality of people will generally improve, and greed will gradually be eliminated.
+D. No matter in what society, scammers always exist.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.971,40_to_79
+73,group_2,D,"[""D"", ""D"", ""B"", ""B"", ""D""]",D,0.6,True,False,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+It is wrong to say that foods with a high content of refined sugar will not cause acquired diabetes, because foods with a high content of refined sugar will cause obesity, and obesity is an important cause of acquired diabetes.
+
+Question:
+
+Which of the following is most similar to the above argument?
+
+Options:
+
+A. It is wrong to say that Alexander is a Plato student.In fact, Alexander was a student of Aristotle, and Aristotle was a student of Plato.
+B. It is true that excessive fertilization is the main cause of lawn diseases and insect pests.Because excessive fertilization can cause the grass to grow madly, and the grass that grows madly has little resistance to diseases and insect pests.
+C. It is wrong for people who frequently participate in strenuous exercise to cause sudden death.Because the violent cause is cardiovascular and cerebrovascular diseases, and vigorous exercise does not necessarily cause cardiovascular and cerebrovascular diseases.
+D. It is wrong to say that inferior gasoline will not cause abnormal fuel consumption.Because inferior gasoline can cause very normal aging of engine valves, and abnormal aging of motive valves can cause abnormal fuel consumption.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.971,40_to_79
+74,group_3,C,"[""C"", ""C"", ""C"", ""C"", ""C""]",C,1.0,True,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+In the football player transfer market this summer, only those who perform well during the World Cup and also perform well in clubs can be favored and chased by many clubs.
+
+Question:
+
+If the above statement is true, which of the following cannot be true?
+
+Options:
+
+A. Veteran Klose broke Ronaldo's 15-ball World Cup goal record with 16 goals at the World Cup, but still did not win the favor of many clubs.
+B. J.Ronaldo won the World Cup Golden Boots.At the same time, with the excellent performance of the club, he successfully transferred to Real Madrid in the case of many clubs chasing.
+C. Royce failed to represent the German team in the Brazil World Cup due to injury, but he has an excellent performance in the Bundesliga club field, and has been favored by top giants such as Real Madrid and Barcelona in the transfer market.
+D. Dortmund top scorer Lewandowski successfully transferred to Bayern Munich.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,40_to_79
+75,group_1,B,"[""B"", ""B"", ""B"", ""B"", ""B""]",B,1.0,True,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+In recent years, overseas study markets in Europe and the United States have continued to heat up, and more and more Chinese have sent their children out.At the same time, part of the returned scholars were caught in a job-hunting dilemma and became a ""sea waiter"" family.An authoritative person pointed out? ""As a job seeker with an overseas degree, if you have real knowledge and basic social skills, and can be accurately positioned in the career selection process, then you cannot become a"" sea wait.""Daejeon is The returnee who has obtained a master's degree in the UK has not yet found a job.
+
+Question:
+
+Which of the following conclusions can be made based on the above discussion?
+
+Options:
+
+A. Datian has real talent and basic social skills, but the positioning is not accurate.
+B. Datian either does not have real talent, or lacks basic social skills, or fails to accurately locate in the career selection process.
+C. Datian does not possess real knowledge and basic social skills, but the positioning is accurate.
+D. Datian does not have real knowledge and basic social skills, and does not have an accurate positioning.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,40_to_79
+76,group_2,A,"[""A"", ""A"", ""A"", ""A"", ""A""]",A,1.0,True,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Some college teachers have overseas doctorates, so some overseas doctors have a high level.
+
+Question:
+
+Which of the following can guarantee the correctness of the above statement?
+
+Options:
+
+A. All college teachers have a very high level.
+B. Not all college teachers have a high level.
+C. Some college teachers have a very high level.
+D. All high-level teachers have overseas doctorate degrees.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,40_to_79
+77,group_3,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+There are only two secondary schools in Nankou Township.The results of the first middle school students are generally better than those of the second middle school.Since Li Ming from Nankou Town has the best grades in the first year of college, he must have graduated from Nankou Town No.1 Middle School.
+
+Question:
+
+Which of the following is most similar to the question-making argument?
+
+Options:
+
+A. If the parent has a good education for the child, the child's performance in the school is generally better.Because Wang Zheng's performance in the school is not good, his parents must be poorly educated.
+B. If the child recites the poem for 1 hour every day, it will be exported into chapters.Guo Na recites the poems for less than an hour every day, so she cannot export to chapters.
+C. If people know how to make money, they can generally accumulate more wealth.Therefore, Mr.Peng's wealth comes from his resourcefulness.
+D. Northerners are usually taller than southerners.Marin is the highest in the class, so he must be a northerner.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,40_to_79
+78,group_1,A,"[""A"", ""A"", ""A"", ""A"", ""A""]",A,1.0,True,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+There are more and more Chinese computer software that can correct vocabulary, grammar and punctuation are used incorrectly.Even if journalists do not have a good Chinese language foundation, they will not hinder writing.Therefore, schools that train journalists do not need to pay attention to the improvement of students 'Chinese ability, but should pay attention to the training of journalists' other qualities.
+
+Question:
+
+Which of the following, if true, would most weaken the above arguments and suggestions?
+
+Options:
+
+A. Avoiding errors in vocabulary, grammar, and punctuation does not necessarily ensure the language quality of the manuscript.
+B. Journalism courses have always emphasized and required students to be proficient in using computers and familiar with various software.
+C. The more effective the Chinese software is, the more likely it is to be pirated.
+D. Opening a new course at the School of Journalism requires a complicated process of argumentation and approval.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,40_to_79
+79,group_2,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+It is generally believed that left-handers are more prone to operating accidents than right-handers.This is a misunderstanding.In fact, most housework accidents range from fires, burns, and small finger cuts to right-handers.
+
+Question:
+
+Which of the following most appropriately summarizes the loopholes in the above argument?
+
+Options:
+
+A. Make a substantive distinction between two types of phenomena that have no substantive difference.
+B. Make an analogy between two types of objects that are not comparable.
+C. The proportion of housework accidents in the whole operation accidents is not considered.
+D. Not taking into account the proportion of left-handers among all people.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,40_to_79
+80,group_3,B,"[""B"", ""B"", ""B"", ""B"", ""B""]",B,1.0,True,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+The raw material of cement is very cheap, like limestone and mud everywhere can be used as raw material of cement.However, the price of cement will be influenced by the price of oil, because it takes a lot of energy to convert raw materials from Pakistan to cement in high-temperature furnaces.
+
+Question:
+
+Based on the above conclusions, which of the following conclusions is most likely to be drawn?
+
+Options:
+
+A. Petroleum is one of the raw materials contained in cement
+B. Petroleum is the energy source of some high-temperature furnaces for making cement
+C. The price of cement falls as the price of oil rises
+D. The higher the price of cement, the higher the price of limestone
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,80_to_99
+81,group_1,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Ms.Zheng? Hengyuan ’s GDP (gross domestic product) growth rate over the past decade is higher than that of Yiyang, so Hengyuan ’s economic prospects are better than Yiyang.Mr.Hu? I disagree with you.Although the GDP growth rate of Hengyuan City is higher than that of the Yiyang market, the GDP of Yiyang City is larger.
+
+Question:
+
+Which of the following most accurately summarizes the controversial focus of Ms.Zheng and Mr.Hu?
+
+Options:
+
+A. Is the GDP of Yiyang City greater than that of Hengyuan City?
+B. Is the GDP growth rate of Hengyuan City really higher than that of Angyang City?
+C. A city's GDP has a large value, is the economic outlook necessarily good?
+D. A city's GDP growth rate is high, is the economic outlook necessarily good?
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,80_to_99
+82,group_2,B,"[""B"", ""B"", ""C"", ""D"", ""C""]",B,0.4,True,False,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: C"", ""The argument assumes that jerky itself is harmless because its additives don\u2019t cause arterial hardening. If jerky eaters also tend to consume other foods that are harmful to arteries, then the lack of arterial hardening observed in trials could be due to those other foods rather than the jerky, undermining the claim that jerky can be eaten without health worries. This directly challenges the conclusion.\n\n**Final Answer: D**"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Clinical trials have shown that for people who occasionally consume a certain amount of beef jerky, most brands of beef jerky additives do not cause arterial hardening.Therefore, people can eat beef jerky without worrying about health effects.
+
+Question:
+
+Which of the following, if true, would most weaken the above argument?
+
+Options:
+
+A. Eating large amounts of beef jerky is not conducive to arterial health.
+B. Arterial health is not equal to physical health.
+C. Meat contains substances harmful to the human body.
+D. People who like to eat beef jerky often like to eat other foods that are harmful to arterial health.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",1.522,80_to_99
+83,group_3,C,"[""A"", ""A"", ""A"", ""A"", ""A""]",A,1.0,False,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+The Peace Foundation decided to suspend funding for S, on the grounds that such funding may be used in part for weapons research.In this regard, the S Institute promises? All the funding of the Peace Foundation will not be used for any weapon-related research.As a result, the Peace Foundation withdrew the above decision and reached a conclusion; as long as the S Institute kept its promise, the above funding of the Peace Foundation would no longer benefit weapons research.
+
+Question:
+
+Which of the following most appropriately summarizes the loopholes in the conclusions of the Peace Foundation?
+
+Options:
+
+A. Ignore this possibility? S Institute does not keep its promises.
+B. Ignore this possibility? S Institute can use weapons from other sources for weapons research.
+C. Ignored this possibility? the funding of the Peace Foundation enabled S Research to have all the ability to switch other funds to weapons research.
+D. Ignore this possibility? weapons research does not necessarily endanger peace.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,80_to_99
+84,group_1,A,"[""A"", ""A"", ""A"", ""C"", ""C""]",A,0.6,True,False,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Based on the following questions? Most people think that advertisers do whatever they can to attract customers.But advertisers are not always like this.Recently, in order to expand sales, a family magazine called ""Bay"" was renamed ""Inferno"", which mainly published violent and pornographic content.As a result, some perennial advertisers from the original ""Bay"" magazine refused to renew the contract and turned to other publications.This shows that these advertisers not only consider economic benefits, but also take into account their ethical responsibilities.
+
+Question:
+
+If the following items are true, they can weaken the above argument, except
+
+Options:
+
+A. The violent and pornographic content published in Purgatory magazine is more moderate in similar magazines.
+B. Magazines that publish violent and pornographic content usually sell well, but have low credibility.
+C. The above-mentioned advertisers who refused to renew their contracts mainly promoted household goods.
+D. The advertising cost of the purgatory magazine after the name change is several times higher than before the name change.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.971,80_to_99
+85,group_2,D,"[""B"", ""B"", ""B"", ""B"", ""B""]",B,1.0,False,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Based on the following questions? Most people think that advertisers do whatever they can to attract customers.But advertisers are not always like this.Recently, in order to expand sales, a family magazine called ""Bay"" was renamed ""Inferno"", which mainly published violent and pornographic content.As a result, some perennial advertisers from the original ""Bay"" magazine refused to renew the contract and turned to other publications.This shows that these advertisers not only consider economic benefits, but also take into account their ethical responsibilities.
+
+Question:
+
+If the following item is true, can the argument be strengthened most?
+
+Options:
+
+A. The cost and selling price of ""Inferno"" are lower than that of ""Harbour"".
+B. The above advertisers who refused to renew their contracts have not affected the benefits after switching to other publications.
+C. Readers of family magazines are generally not interested in violent and pornographic content.
+D. Some clients who advertise in other family magazines and so on turn to ""Inferno"" magazine.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,80_to_99
+86,group_3,C,"[""C"", ""C"", ""A"", ""C"", ""C""]",C,0.8,True,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: A"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+The area of ​​the equatorial rainforest in country H decreases at an alarming rate every year, which has attracted global attention.However, data from satellite photos show that the reduction in rainforest area in country H last year was significantly lower than in previous years.Last year, the government of Country H spent millions of dollars to stop deforestation and forest fires.The government of country H claimed that the data from the satellite photos indicated that the efforts of the government to protect the equatorial rainforest had achieved remarkable results.
+
+Question:
+
+Which of the following, if true, would most weaken the above conclusions of the government of Country H?
+
+Options:
+
+A. Last year, H ’s financial investment to protect the equatorial rainforest was significantly lower than in previous years.
+B. The area of ​​the equatorial rainforest in country G, which is adjacent to country H, has not decreased.
+C. Last year's dry season in Country H saw unusually large and continuous rainfall.
+D. The cost of rainforest protection in country H only accounts for a small percentage of annual fiscal expenditure.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,80_to_99
+87,group_1,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+According to a psychological theory, to be happy, one must maintain an intimate relationship with those around him.However, the great painters in the world often spend most of their time in loneliness and have no intimate relationships.Therefore, the above argument of this psychological theory is untenable.
+
+Question:
+
+Which of the following is most likely assumed by the above argument?
+
+Options:
+
+A. The psychological theory is to reveal the relationship between inner experience and artistic achievement.
+B. People with intimate relationships have little time for loneliness.
+C. Loneliness is necessary for great painting artists.
+D. Artists who have achieved great achievements cannot be unhappy.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,80_to_99
+88,group_2,B,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,False,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Xiao Chen? At present, part of the orbit of Comet 1996D3 is far from the sun, but recently it can be found to emit flickering light through the solar telescope.In the past, people never observed such flashes of comets far away from the sun, so this flicker must be an unusual scene.Xiao Wang? Normally people don't observe comets far away from the sun.The 1996D3 comet flicker light discovered this time was obtained by continuous and careful tracking observation.
+
+Question:
+
+Which of the following most accurately summarizes the method Xiao Wang used to refute Xiao Chen's views?
+
+Options:
+
+A. Point out that the key concepts used by Xiao Chen are ambiguous.
+B. pointed out that Xiao Chen's argument is clearly lacking in persuasion.
+C. pointed out that Xiao Chen's arguments contradict themselves.
+D. Disagree with Xiao Chen's conclusion, and put forward another explanation for Xiao Chen's argument.E.Agree with Xiao Chen's conclusion, but put forward another explanation for Xiao Chen's argument.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,80_to_99
+89,group_3,D,"[""B"", ""B"", ""B"", ""C"", ""B""]",B,0.8,False,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: C"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Mr.Chen is going to hold a gathering of friends and family.He came forward and invited his father's brother-in-law, his brother-in-law's father, his brother's mother-in-law, his brother-in-law's brother.
+
+Question:
+
+How many guests did Mr.Chen come forward to invite?
+
+Options:
+
+A. No guest invited
+B. 1 guest
+C. 2 guests
+D. 3 guests
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,80_to_99
+90,group_1,B,"[""B"", ""A"", ""B"", ""B"", ""A""]",B,0.6,True,False,"[""Final Answer: B"", ""Final Answer: A"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Crimes involving the use of firearms are more likely to lead to murder than other types of crimes.However, most crimes involving the use of firearms did not result in homicides.Therefore, there is no need to distinguish the illegal use of firearms as a serious criminal offense in the criminal law from other criminal offenses.
+
+Question:
+
+The logic loophole in the above argument is most similar to the following one?
+
+Options:
+
+A. Obese people are more likely to suffer from heart disease than people with normal weight.However, obese people make up a very small percentage of our population.Therefore, in our country, there is no need for the medical and health community to emphasize the risk of heart disease.
+B. Unchecked sex is more likely to be infected with AIDS than checkpoint.However, among people with unchecked sex, only a small percentage of people are infected with AIDS.Therefore, there is no need to emphasize the harm of unchecked sex in the propaganda of AIDS prevention.
+C. The prevailing view is that smoking is more likely to cause lung cancer than not smoking.However, in some countries, the proportion of people with lung cancer who have a history of smoking is not higher than the proportion of the total population who have a history of smoking.Therefore, the above popular opinion is likely to be a prejudice.
+D. High-income people are more capable of enjoying life than low-income people.But there are many high-income earners who claim to be unhappy.Therefore, those who pursue a happy life need not pay attention to the level of income.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.971,80_to_99
+91,group_2,A,"[""A"", ""A"", ""A"", ""A"", ""A""]",A,1.0,True,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Zhang Shan received a higher bonus than Li Si.After learning that Wang Wu's bonus was higher than Miao Xiaoqin, Zhang Shan's bonus was also higher than Miao Xiaoqin.
+
+Question:
+
+The following assumptions can make the above inference hold, except
+
+Options:
+
+A. Wang Wu's bonus is higher than Li Si's.
+B. Li Si's bonus is higher than Miao Xiaoqin's.
+C. Li Si's bonus is higher than Wang Wu's.
+D. Li Si's bonus is as high as Wang Wu's.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,80_to_99
+92,group_3,D,"[""D"", ""D"", ""C"", ""D"", ""D""]",D,0.8,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: C"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+A laboratory has three types of robots, A.B, and C.Type A can recognize colors, type B can recognize shapes, and type C can neither recognize colors nor shapes.The laboratory experimented with robots 1 and 2 with red balls, blue balls, red squares, and blue squares, and ordered them to pick up the red balls, but number 1 picked up the red squares, and number 2 picked up the blue balls.
+
+Question:
+
+Based on the above experiment, which of the following must be true?
+
+Options:
+
+A. Both No.1 and No.2 are type C.
+B. Only one of No.1 and No.2 is C type.
+C. No.1 is type A and No.2 is type B.
+D. No.1 is not Type B and No.2 is not Type A.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,80_to_99
+93,group_1,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Statistics show that in car accidents, the proportion of cars with airbags is higher than that of cars without airbags.Therefore, installing an airbag in a car does not make the car owner safer.
+
+Question:
+
+Which of the following most appropriately points out the loophole of the above argument?
+
+Options:
+
+A. Assume without explanation? Any car equipped with airbags may experience a car accident.
+B. Ignore this possibility? Owners without airbags pay more attention to driving cautiously.
+C. Improper assumption? In any car accident, the airbag will automatically open.
+D. Improperly equate the possibility of a car accident with the seriousness of the car owner ’s injury in the accident.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,80_to_99
+94,group_2,D,"[""D"", ""D"", ""D"", ""D"", ""A""]",D,0.8,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Some good goods are not cheap.Therefore, not all good goods are good goods.""
+
+Question:
+
+An analogy with which of the following inferences shows that the above inferences are not true?
+
+Options:
+
+A. People in Hunan don't like chili.Therefore, some people who love chili are not Hunanese.
+B. Some people are not selfish.Therefore, people are not all selfish.
+C. A good motivation does not necessarily have a good effect.Therefore, good effects do not necessarily result from good motivation.
+D. Some southerners are not Cantonese.Therefore, not all Cantonese are Southerners.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,80_to_99
+95,group_3,B,"[""B"", ""B"", ""B"", ""B"", ""B""]",B,1.0,True,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+A school classifies students' academic performance into four grades of excellent, good, middle and poor by grade level.In a school year, the top 10% of the total score of each exam is excellent; the latter 30% is poor, and the rest are good and medium.In the previous school year, more students with excellent grades in the second grade were more than those with excellent grades in the first grade.
+
+Question:
+
+If the above determination is true, which of the following must be true?
+
+Options:
+
+A. Students with poor grades in the second grade are less than those with poor grades in the first grade.
+B. There are more students with poor grades in the second grade than those with poor grades in the first grade.
+C. There are more students with good grades in the second grade than those with good grades in the first grade.
+D. The students with good grades in the second grade are less than those with good grades in the first grade.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,80_to_99
+96,group_1,A,"[""B"", ""A"", ""B"", ""A"", ""C""]",B,0.4,False,False,"[""Final Answer: B"", ""Final Answer: A"", ""Final Answer: B"", ""Final Answer: A"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+There are 90 patients, all suffering from refractory disease T, who have taken the same conventional drugs.These patients were divided into two groups of equal numbers.The first group took W, an experimental drug used to treat T, and the second group took placebo without W.Statistics after 10 years show that 44 deaths occurred in both groups.Therefore, this test drug is ineffective.
+
+Question:
+
+Which of the following, if true, would most weaken the above argument?
+
+Options:
+
+A. Among the patients who died above, the average year of death of the second group was two years earlier than the first group.
+B. Among the patients who died, the average life span of the second group was two years shorter than that of the first group.
+C. Among the above living patients, the second group is more severely ill than the first group.
+D. Among the above living patients, the second group is older than the first group.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",1.522,80_to_99
+97,group_2,C,"[""B"", ""C"", ""C"", ""C"", ""C""]",C,0.8,True,True,"[""Final Answer: B"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Kobayashi was refused to enter the deep pool because he did not wear a swimming cap.Kobayashi showed the deep water certificate? According to regulations, I can enter the deep pool.The regulations of the swimming pool are? those who do not wear swimming caps are not allowed to enter the swimming pool; only those with a deep water certificate can enter the deep pool.
+
+Question:
+
+Kobayashi is most likely to understand the rules of swimming as?
+
+Options:
+
+A. You cannot enter the deep pool unless you have a deep water certificate.
+B. Only those who hold a deep water certificate need not wear a swimming cap.
+C. If you have a deep water certificate, you can enter the deep pool.
+D. Those who are allowed to enter the swimming pool may not be allowed to enter the deep pool.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,80_to_99
+98,group_3,D,"[""D"", ""C"", ""D"", ""A"", ""C""]",D,0.4,True,False,"[""Final Answer: D"", ""The argument claims that the rise in seals caused the decline in crocodiles, even though seals rarely eat crocodiles. To weaken this claim we need evidence that the decline in crocodiles occurred before the increase in seals, breaking the suggested causal order.\n\n- Option\u202fA introduces another possible cause (pollution) but does not address the timing of the changes.\n- Option\u202fB notes that seals are still fewer than crocodiles, which does not affect the causal claim.\n- Option\u202fC states that crocodile numbers were already falling before the seal population rose, directly undermining the idea that the seal increase caused the crocodile decline.\n- Option\u202fD suggests competition for food, which actually provides an alternative way seals could affect crocodiles, not a weakening of the argument.\n\nThus, the statement that most weakens the argument is option\u202fC.\n\n**Final Answer: C**"", ""Final Answer: D"", ""Final Answer: A"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+The number of crocodiles in the North Atlantic Ocean has declined sharply, but the number of seals has increased significantly at almost the same time.Some people say that it is the seal that caused the reduction of crocodiles.This argument is difficult to establish because seals rarely feed on crocodiles.
+
+Question:
+
+Which of the following, if true, would most weaken the above argument?
+
+Options:
+
+A. Seawater pollution causes more damage to crocodiles than seals.
+B. Despite the sharp decrease in the number of crocodiles and the increase in the number of seals, there are still fewer seals in the North Atlantic Ocean than crocodiles.
+C. Before the number of seals increased, the number of crocodiles in the North Atlantic Ocean decreased.
+D. Crocodiles only eat capelin, and capelin is also the main food for seals.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",1.522,80_to_99
+99,group_1,C,"[""D"", ""B"", ""B"", ""B"", ""A""]",B,0.6,False,False,"[""Final Answer: D"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+No one can make mistakes, and everyone may make serious mistakes.
+
+Question:
+
+If the above determination is true, which of the following must be true?
+
+Options:
+
+A. Everyone may make mistakes, but some people may not make serious mistakes.
+B. Everyone may make mistakes, but all people may not make serious mistakes.
+C. Everyone will make mistakes, but some people may not make serious mistakes.
+D. Everyone will make mistakes, but all people may not make serious mistakes.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",1.371,80_to_99
