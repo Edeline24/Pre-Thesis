@@ -8799,3 +8799,2203 @@ After your reasoning, write your final answer exactly like this:
 Final Answer: A
 
 (use only the letter A, B, C, or D)",0.722,380_to_399
+400,group_2,C,"[""C"", ""C"", ""C"", ""C"", ""C""]",C,1.0,True,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Ethicist? Under normal circumstances, it is wrong to take some experimental medical measures without the consent of the patient, because the patient has the right to accept or refuse a certain treatment based on all the detailed medical options available.However, in the case of emergency treatment, sometimes only by surpassing the patient's right to consent to the experimental treatment can we know how to best deal with the emergency patient.Therefore, certain limited experimental treatments without patient consent should be allowed.
+
+Question:
+
+Which of the following is the hypothesis required by this ethicist ’s argument?
+
+Options:
+
+A. If the patient knows that an experimental treatment was used during the emergency treatment, it will have an adverse effect on the outcome of this treatment.
+B. Only when an experimental treatment is very likely to produce beneficial results for the patient should this treatment be approved without the patient's consent.
+C. At least in some cases of emergency treatment, the benefits of experimental treatment without the patient ’s consent may be more important than the patient ’s right to consent.
+D. When the best medical plan is still unknown, patients no longer have the right to know the medical plan and medical plan.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,400_to_439
+401,group_3,B,"[""A"", ""D"", ""A"", ""A"", ""A""]",A,0.8,False,True,"[""Final Answer: A"", ""Final Answer: D"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+The current Chinese men's football team coach Perrin once led the French Lyon team to win the Ligue 1 championship and the French Cup in the 2007/2008 season, but then left the team unexpectedly.At that time his credo was? either absolutely trust or not, there is no middle line.
+
+Question:
+
+Which of the following statements most accurately expresses the meaning of Perrin ’s creed?
+
+Options:
+
+A. If you want to do it, you must have absolute trust, otherwise you will not do it.
+B. Absolute trust is the only way to do it.If you do n’t, you wo n’t get absolute trust.
+C. Only by having absolute trust.
+D. Do it if you have absolute trust.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,400_to_439
+402,group_1,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+People with depression have a strong tendency to commit suicide.Many people think that depression is a psychological disease.In the mid-20th century, medical research found that there are 3 neurotransmitters (serotonin, nor-nor The concentration of epinephrine and dopamine is lower than that of normal people.Medical scientists speculate that the imbalance of these three neurotransmitters caused depression.
+
+Question:
+
+If any of the following statements is true, can the above medical scientist's conclusion be given the strongest support?
+
+Options:
+
+A. Depression is not only a mental illness, but also an organic disease.
+B. It may be that depression leads to an imbalance in the concentration of these three neurotransmitters in the brain.
+C. Women and the elderly are high-risk groups of depression.
+D. Drugs developed for the above three neurotransmitters to maintain their concentration balance are effective in treating depression.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,400_to_439
+403,group_2,C,"[""A"", ""A"", ""A"", ""A"", ""A""]",A,1.0,False,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+The smog in City B is mainly caused by pollutants such as fine particulate matter (PM2.5), nitrogen-hydrogen compounds and inhalable particulate matter (PM10).Statistical research shows that the number of smog and haze weather in City B dropped significantly last year compared with the previous year, and it was the year with the largest decline since relevant statistics.However, the statistical survey shows that the public's anxiety and anxiety about the smog weather in City B has increased greatly in the past year.
+
+Question:
+
+If any of the following statements are true, is it most helpful to eliminate the obvious inconsistencies in the above description?
+
+Options:
+
+A. Last year, the news media reports and comments on the smog weather in City B almost doubled from the previous year.
+B. Some people in City B who are anxious about the haze weather live in areas where PM2.5 is more polluted.
+C. Last year, City B held a large-scale international conference.Temporary measures such as vehicle restrictions and construction site shutdowns were the main reasons for the reduction in haze.
+D. The vast majority of residents in City B are aware of the hazards of smog to humans.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,400_to_439
+404,group_3,B,"[""B"", ""B"", ""B"", ""B"", ""B""]",B,1.0,True,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Some people think that only by establishing a good institutional mechanism can corruption be fundamentally eliminated.However, once a trend is formed in Chinese society, even a powerful system will be torn apart by it.""Correcting the people's hearts and then the world"", in order to solve the problem fundamentally, ""rectifying the people's hearts"" must be taken as the foundation.Only when the hearts of the people are right can the winds of corruption and utilitarianism be eliminated, and the anti-corruption system can be truly established and effectively implemented.
+
+Question:
+
+Which of the following statements is the assumption upon which the above argument relies?
+
+Options:
+
+A. There is corruption in any society, and no matter what method is used, it can only weaken corruption and not eradicate it.
+B. The formation of corruption and utilitarian winds is not caused by imperfect systems or imprecise implementation.
+C. The effective way to change the customs is to select the virtuous and competent, narrow the gap between the rich and the poor, and ideological education for profit.
+D. The system is fundamental to correct people's hearts.With the anti-corruption system and strict implementation, the atmosphere will change.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,400_to_439
+405,group_1,C,"[""D"", ""D"", ""A"", ""A"", ""A""]",A,0.6,False,False,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Most plants have produced chemicals that resist parasites during long-term evolution.Plants commonly used by humans contain about 40 kinds of natural medicines, that is, compound chemical toxins against bacteria, fungi and other parasites.People ingest these toxins every day without being poisoned.Therefore, the added harm caused by synthetic pesticides sprayed on crops is very small.
+
+Question:
+
+If the following statement is true, in addition to which one can weaken the above argument?
+
+Options:
+
+A. The concentration of natural medicines contained in plants is much lower than the concentration of synthetic pesticides sprayed on crops.
+B. Humans have been taking the natural medicines contained in these plants for thousands of years, and have time to adapt to them.
+C. The chemical structure of synthetic pesticides is usually simpler than that of natural drugs contained in plants.
+D. Natural medicines contained in plants are usually only suitable for defending against specific organisms, while synthetic pesticides are usually harmful to many organisms.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.971,400_to_439
+406,group_2,C,"[""C"", ""C"", ""C"", ""C"", ""C""]",C,1.0,True,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+All green or sprouted potatoes contain more toxic alkaloid-solanine.None of the inspected potatoes are green or sprouted.Therefore, the inspected potatoes are safe to eat.
+
+Question:
+
+If the following statement is used as a hypothesis, the conclusion of the above reasoning can be logically derived?
+
+Options:
+
+A. All potatoes without solanine are safe to eat.
+B. Green or sprouted potatoes are not safe to eat.
+C. Potatoes that are neither green nor sprouted can be eaten safely.
+D. It is not safe to eat potatoes that contain more solanine.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,400_to_439
+407,group_3,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""The index shows that overall manufacturing costs in China are almost as high as in the United States even though wages are lower. That can be explained by the fact that other components of cost\u2014particularly the expenses for fixed assets and energy\u2014have been rising sharply in China, offsetting the advantage of cheaper labor. \n\n**Final Answer: D**""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+In recent years, the cost of manufacturing in China has been rising continuously.According to the survey data of the Boston Consulting Group, the cost of manufacturing in China is close to that of the United States.Taking the United States as the benchmark (100), the Chinese manufacturing index is 96, which means that for the same product, the manufacturing cost in the United States is $ 1, and in China it is $ 0.96.Despite rising labor costs in China, the income of Chinese workers is significantly lower than that of workers in the same industry in the United States.
+
+Question:
+
+If any of the following statements are true, can we best explain the seemingly contradictory phenomenon?
+
+Options:
+
+A. The price level in most parts of China is lower than that in the United States.
+B. Due to rising labor costs in China, some manufacturing industries have begun to transfer some factories to India or Southeast Asian countries.
+C. The profit margin of China's manufacturing industry is generally relatively low.
+D. In recent years, the cost of fixed assets and energy costs of investment in China have continued to rise.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,400_to_439
+408,group_1,B,"[""B"", ""B"", ""B"", ""B"", ""B""]",B,1.0,True,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+One of the strictest laws in history to ban smoking, although it has not yet banned people from smoking in their homes, it prohibits people from smoking in all public places and workplaces.If this law is strictly enforced, it will completely protect workers from second-hand smoke.
+
+Question:
+
+If which of the following statements is true, the above argument is weakened most effectively?
+
+Options:
+
+A. The exhaust of cars from people commuting to work is much more harmful than smoking second-hand smoke.
+B. Persons such as tutors, nurses, hourly workers, etc.all work at the employer ’s home.
+C. No piece of legislation and its implementation can fully realize the intent of the legislator.
+D. This smoking control law overestimates the dangers of smoking secondhand smoke.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,400_to_439
+409,group_2,A,"[""A"", ""A"", ""C"", ""A"", ""A""]",A,0.8,True,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: C"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Expert? Only when the property rights of an item are clearly defined and can be traded can the real value of the item be reflected.We said that we must protect the interests of farmers.If we can't figure out what the farmers' best interests are, how to protect them? What valuable things do farmers have? That is the homestead.Only when the value of the homestead is fully reflected can we really protect the interests of farmers.
+
+Question:
+
+If the above statement is true, which of the following statements must be true?
+
+Options:
+
+A. To truly protect the interests of farmers, it is necessary to allow transactions on homesteads.
+B. As long as you understand what is the peasants 'best interests, you can protect the peasants' interests.
+C. As long as the property rights of the homestead are clearly defined and can be traded on, the true value of it can be reflected.
+D. If the homestead is traded, its value can be fully reflected.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,400_to_439
+410,group_3,D,"[""C"", ""D"", ""D"", ""D"", ""D""]",D,0.8,True,True,"[""Final Answer: C"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+twenty one.Standard antibiotics usually contain only one active ingredient, while herbal antibacterial drugs contain many.Therefore, herbal medicines are more likely to maintain their effectiveness than standard antibiotics when fighting new resistant bacteria.For the strain, it is difficult to develop resistance to herbal medicines, just as it is difficult for a chef to make a dish that can satisfy the taste of dozens of guests at the same time, and it is much easier to make a dish that meets the taste of one guest.
+
+Question:
+
+Which of the following ways of reasoning is most similar to the above argument?
+
+Options:
+
+A. If you have a large deposit in the bank, your purchasing power will be strong.If your purchasing power is strong, you will be happy.Therefore, if your bank has a large amount of deposits, you will be happy.
+B. A full-term baby has a certain instinct reaction after birth that will disappear by 2 months.The baby has been 3 months old, and there is this instinctive reaction.Therefore, this baby was not born at full term.
+C. Depending on the size, the supermarket may require 1 to 3 security guards to prevent theft.If any supermarket decides to use 3 security guards, then it must be a big supermarket.
+D. Electric current passes through wires as water flows through pipes.Since a large-diameter pipeline has a larger flow rate than a small-diameter pipeline, a thicker wire has a larger amount of electricity than a thin wire.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,400_to_439
+411,group_1,A,"[""C"", ""C"", ""C"", ""C"", ""C""]",C,1.0,False,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+twenty two.WiFi transmitters generate electromagnetic radiation.Five Danish middle school students put cress seeds in a room with a WiFi transmitter and without a WiFi transmitter for cultivation.After 12 days, they found that the germination rate of the seeds in the room without a WiFi transmitter was 95.4%, with WiFi transmission The germination rate of seeds in the machine room was 85.3%.Many people worry that WiFi radiation will affect human health.However, many experts believe that the above experiment is not rigorous, and it cannot be concluded that WiFi radiation is harmful to humans.
+
+Question:
+
+Which of the following assertions can support the opinions of these experts?
+
+Options:
+
+A. The impact of WiFi radiation on the human body is related not only to its frequency, but also to the distance between the WiFi transmitter and the human body.
+B. Keep other conditions unchanged in the same room, and repeat the experiment with and without a WiFi transmitter.
+C. There are many factors that affect the germination of seeds, and experiments by Danish middle school students cannot exclude the interference of other factors.
+D. Animal experiments should be done to determine the effects of WiFi radiation on the human body, not just plant experiments.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,400_to_439
+412,group_2,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+twenty three.Zhang Hua said to Wang Lei? You told me that as the legal owner of the company, as long as I want, I have the right to sell it.However, you told me that if I sold it, the loyal employees would suffer misfortune, so I have no right to do so.Obviously, your two claims are inconsistent.
+
+Question:
+
+Which of the following statements best describes the flaws in Zhang Hua ’s inference?
+
+Options:
+
+A. Zhang Hua ignored that his employees also had the rights related to the sale of the company.
+B. Zhang Hua did not provide sufficient and reliable reasons for selling his company.
+C. Zhang Hua's right not to sell his company now does not mean that he never has the right to sell it.
+D. Zhang Hua confuses company ownership with responsibility for loyal employees.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,400_to_439
+413,group_3,C,"[""C"", ""C"", ""B"", ""B"", ""B""]",B,0.6,False,False,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+twenty four.Psychologists' long-term observation of the parking lot of a shopping mall found that when a car is quietly waiting to enter the parking space, the driver takes an average of 39 seconds to drive out of the parking space; when the owner waiting to enter whistle impatiently, the driver It takes an average of 51 seconds to get out of the parking space; when there is no car waiting to enter the parking space, the driver takes an average of 32 seconds to get out of the parking space.This shows that the driver still has an appetite for the parking space that is about to leave, and the appetite increases as other drivers expect the parking space to increase.
+
+Question:
+
+If which of the following statements is true, it weakens the speculation above?
+
+Options:
+
+A. Most of the drivers driving in or out of the parking lot of the shopping mall are amateur drivers, and many of them are novice drivers with a mileage of less than 5,000 kilometers.
+B. When someone whistles impatiently on the side, almost all drivers who are leaving the parking space will feel unhappy, and this unhappiness affects the time they leave the parking space.
+C. When someone expects the driver to skillfully drive the car out, most drivers will generate psychological pressure.The greater the pressure, the slower the driver will get out of the parking space.
+D. As far as vehicles are waiting to enter the parking spaces, compared with other parking lots in the neighborhood, the cases of exiting and entering parking spaces in shopping mall parking lots are not necessarily representative.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.971,400_to_439
+414,group_1,D,"[""A"", ""D"", ""D"", ""D"", ""D""]",D,0.8,True,True,"[""Final Answer: A"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Many successful film and television directors start their professional careers after several years of formal professional learning.Although a considerable number of film and television directors have not undergone formal professional learning, they have mastered technology by learning from their peers in practice.But no film and television director who ignores the psychological needs of the public can succeed.
+
+Question:
+
+If the above statement is true, which of the following statements must be true?
+
+Options:
+
+A. The more a film and television director values ​​the psychological needs of the public, the more likely it is to succeed.
+B. No film and television director who has mastered technology by learning from peers in practice will ignore the psychological needs of the public.
+C. All unsuccessful film and television directors have ignored the psychological needs of the public.
+D. Not all film and television directors who have gone through formal professional studies ignore the psychological needs of the public.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,400_to_439
+415,group_2,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""The argument bases its conclusion solely on GDP per capita, ignoring other aspects of living standards such as distribution of income, health, education, security, etc. Relying on a single indicator is therefore a serious flaw.\n\nFinal Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Since 1991, Somalia has actually been in anarchy under the separation of armed forces.In 1991, Somalia ’s GDP per capita was US $ 210, and it increased to US $ 600 in 2011.In the same year, Tanzania ’s per capita GDP was US $ 548, Central Africa was US $ 436, and Ethiopia was US $ 350.From this point of view, compared with many countries in Africa that are ruled by a strong central government, Somalia is in an anarchy and its people's living standards are not bad at all.
+
+Question:
+
+Which of the following statements accurately summarizes the most serious flaw of the above argument?
+
+Options:
+
+A. Somalia ’s wealth is concentrated in the hands of a few people, and many people fall into poverty due to factors such as security or unemployment.
+B. The increase in GDP per capita has benefited from Somali pirates hijacking merchant ships from various countries and plundering the property of other countries.
+C. The reason for the increase in GDP per capita in Somalia is the fact of economic freedom contained in anarchy.
+D. It is unreliable to judge the overall living standard of a country ’s people based on a single indicator.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,400_to_439
+416,group_3,C,"[""C"", ""C"", ""C"", ""C"", ""C""]",C,1.0,True,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+The core subject of the University of Sydney Business School is ""Critical Thinking in Business"".At the end of the final exam, 1200 students took part, but more than 400 failed.Among them, 80% were Chinese students.The University of Sydney explained? “Chinese students lack critical thinking and their English is not good.” Student representative L complained about this? “Students admitted to the school are all accredited by the school, and the business school entrance examination requires IELTS 7 points., We have all reached this level.""
+
+Question:
+
+Which of the following statements is the hypothesis on which student representative L’ s complaint relies?
+
+Options:
+
+A. The school may discriminate unfairly when evaluating the scores of Chinese students.
+B. The school has an unshirkable responsibility for failing students, and the cost of renewal should be halved.
+C. The school's requirements for students' English language entry are the same as those required for completion of all subjects after enrollment.
+D. The renewal fee for each course is 5,000 Australian dollars.This high failure rate is due to the school's desire to earn renewal fees.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,400_to_439
+417,group_1,A,"[""B"", ""B"", ""B"", ""B"", ""B""]",B,1.0,False,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Unethical behavior is against human nature, and everything that violates human nature is just as bad.Because killing people is immoral, killing a person is as bad as killing a hundred people.
+
+Question:
+
+Which of the following statements best fits the principles expressed above?
+
+Options:
+
+A. To sacrifice one person to save one person is as noble as to sacrifice one person to save one hundred people.
+B. Robbery is both immoral and contrary to human nature, it is as bad as killing a person.
+C. In the case where only one person can be killed to save the other, killing is as bad as not killing.
+D. Since rape is immoral, society should prevent rape in the same way as murder.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,400_to_439
+418,group_2,D,"[""D"", ""A"", ""A"", ""D"", ""A""]",A,0.6,False,False,"[""Final Answer: D"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: D"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Since the beginning of the Zhou Dynasty, China has practised the etiquette of not marrying with the same surname.""Qu Li"" said? ""The same surname is the ancestor, and it has the meaning of the family, so it is the surname ...Although the hundred ancestry, the marriage is not connected, Zhou Zhouran also."" ""Mandarin"" said? ""Marry a wife to avoid his surname."" ? ""The same surname does not marry, neither evil nor colonization."" From this, the ancients in China have long understood the principles of eugenics and eugenics in modern genetics, otherwise they would not realize the harm of close marriage.
+
+Question:
+
+If any of the following statements is true, will it weaken the author's interpretation of ""unmarried with the same surname""?
+
+Options:
+
+A. The etiquette system of inter-marriage lays the foundation of etiquette for the political marriage between countries.
+B. The ancients in our country formulated the etiquette for unmarried people of the same surname based on the experience that marriage of the same surname leads to incest and poor fertility.
+C. Qin and Jin's intermarriage is called Qin Jin's good, Qin Jin's good is a model of the same surname not to marry.
+D. The etiquette of unmarriage of the same surname encourages inter-marriage intermarriage, which promotes the integration of all ethnic groups.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.971,400_to_439
+419,group_3,C,"[""B"", ""B"", ""D"", ""D"", ""D""]",D,0.6,False,False,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+In the years following the implementation of the US Three Guarantees Act, auto companies suffered huge losses due to refunds to returnees.Therefore, before the implementation of China's ""Responsibility Regulations on the Repair, Replacement, and Return of Household Automobile Products"" in 2014 (referred to as the ""Three Guarantees Law""), industry insiders predicted that the Three Guarantees Law on Automobiles would have a great impact on automobile manufacturers.However, in the past year since the implementation of the Three Guarantees Law, investigations by reporters in many 4S stores in Beijing, Sichuan and other places have shown that there are zero cases of returning or replacing cars under the Three Guarantees Law.
+
+Question:
+
+If the following statement is true, which one best explains the above anomalies?
+
+Options:
+
+A. One year after the implementation of the Three Guarantees Law, only 7% of consumers understand the rights of the Three Guarantees before buying a car.
+B. Most auto dealers did not introduce consumers to the rights and interests of the Three Guarantees as required by regulations.
+C. The key provisions of the Three Guarantees Law protecting the interests of car owners lack operability, making it difficult to succeed in returning or replacing cars.
+D. To avoid punishment by law, automakers and dealers have improved the quality of service in maintenance.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.971,400_to_439
+420,group_1,C,"[""C"", ""C"", ""C"", ""C"", ""C""]",C,1.0,True,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Among the pilots who joined the state-owned airlines more than ten years ago, those who later transferred to private airlines now usually have an annual salary of more than one million, while those who remain in the state-owned airlines generally do not exceed 600,000 yuan.These data indicate that the salaries of pilots of state-owned airlines are too low.
+
+Question:
+
+Which of the following statements is the assumption required for the above conclusion?
+
+Options:
+
+A. The vast majority of pilots transferred to private airlines believe that the salaries of state-owned airlines are too low.
+B. Those pilots transferred to private airlines generally have higher ranks and stronger working abilities.
+C. If those pilots who still stay in state-run airlines also choose to go to private airlines, their annual salary will also exceed one million.
+D. Private airline pilots and national airline pilots have roughly the same mileage each year.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,400_to_439
+421,group_2,C,"[""C"", ""C"", ""C"", ""C"", ""B""]",C,0.8,True,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Countries with a small population with higher education are destined to be economically and politically weak.However, in countries with a large population of highly educated people, their governments have serious financial commitments to public education.Therefore, any country with a government that can make such a commitment will be free from economic and political weakness.
+
+Question:
+
+Which of the following arguments is most similar to the above argument?
+
+Options:
+
+A. Poets who have created high-quality poetry have learned traditional poetry, and poets who have not learned traditional poetry are most likely to create innovative poetry.Therefore, to create innovative poetry is best not to learn traditional poetry.
+B. A person who does not understand teaching cannot understand the personality of the students he teaches.Therefore, a person who understands teaching can understand the personality of the students he teaches.
+C. A person who lacks emotional resonance is not a good candidate for public office, while a person with emotional resonance is good at manipulating the emotions of others.Therefore, people who are good at manipulating the feelings of others are excellent candidates for public office.
+D. If the climate changes suddenly, animals with a single type of food will be more difficult to survive.However, animals with a wide range of foods will not, because abrupt climate change will only eliminate certain types of food.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,400_to_439
+422,group_3,A,"[""C"", ""C"", ""C"", ""C"", ""D""]",C,0.8,False,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+North American male brown bears usually attack and kill cubs born to female bears who are not bred by it.However, during the salmon migration season from July to August each year, among brown bears fishing in Haro Bay, male brown bears attack and kill female brown bear cubs less than one-tenth the usual time.The probability of encountering a female brown bear and a male brown bear unexpectedly is dozens of times higher than usual.In this period when female brown bears and male brown bears meet most, the probability of cubs being killed is the lowest.
+
+Question:
+
+If which of the following statements is true, provides the best explanation for the abnormal behavior of male brown bears?
+
+Options:
+
+A. Brown bears usually fight to protect their territory.During the salmon migration season, they focus on their fishing skills and rarely fight for the territory.
+B. Cubs rely on female brown bears for 3 years to survive independently.Since female brown bears will not conceive during lactation, cubs between 3 and 12 months old have the highest kill rate.
+C. Salmon is the main food source for North American brown bears to replenish body fat in large amounts.Brown bears struggle to gain weight by fishing in order to survive the coming severe winter.
+D. In order to protect future cubs, female brown bears usually mate with multiple male brown bears, so that more male brown bears think they are the father of their cubs.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,400_to_439
+423,group_1,C,"[""C"", ""C"", ""C"", ""C"", ""C""]",C,1.0,True,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+All etching tools are either needle-nosed or flat-edged.However, some flat-edged etching tools are used for engraving, and some are not.On the other hand, all the etching tools of the needle mouth are used for engraving.Therefore, there are more etching tools used for engraving than those not used for engraving.
+
+Question:
+
+If any of the following statements are true, can the conclusion of the above argument be drawn logically?
+
+Options:
+
+A. Most flat-edged etching tools are not used for carving.
+B. All etching tools that are not used for carving are flat-edged.
+C. There are as many etching tools in the needle mouth as there are flat edge etching tools.
+D. No etching tool is both a needle mouth and a flat blade.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,400_to_439
+424,group_2,B,"[""B"", ""B"", ""B"", ""B"", ""B""]",B,1.0,True,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""The publisher assumes that because each individual theme was part of a best\u2011selling book, putting all three together will automatically make the new book a bestseller. This is the error of assuming that what is true of the parts (each theme\u2019s success) must also be true of the whole (the combined book).\n\nFinal Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+In the 1940s, more than 7,000 books were published in the United States, of which only over 10 became bestsellers.A New York publisher found that the best-selling book of the year was related to three themes, one related to President Lincoln, one related to doctors, and one related to dogs.He thinks that if these three kinds of content are combined, it will definitely sell well.So he planned to publish the ""President of the American President's Physician"", and the result of this book was extremely poor.
+
+Question:
+
+Which of the following statements best illustrates the shortcomings of the above reasoning?
+
+Options:
+
+A. It is believed that the attributes possessed by the whole are also possessed by the parts.
+B. It is believed that the attributes possessed by parts are also possessed by the whole.
+C. Ignore other possible causes.
+D. Treat the result of a phenomenon as the cause of this phenomenon.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,400_to_439
+425,group_3,A,"[""D"", ""A"", ""A"", ""A"", ""A""]",A,0.8,True,True,"[""Final Answer: D"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Studies have shown that for most people with normal blood pressure, any amount of sodium in excess of the body's needs can be successfully eliminated from the body without significantly increasing blood pressure.Therefore, only those with high blood pressure and those whose body cannot safely handle excess sodium need to limit sodium intake.
+
+Question:
+
+If any of the following statements is true, can the above argument be weakened most effectively?
+
+Options:
+
+A. Ingesting excess sodium sometimes damages the body's ability to handle excess sodium.
+B. Hypertension is sometimes worsened by ingesting more sodium than the body needs.
+C. Anyone needs a certain amount of sodium to maintain the normal physiological functions of the body.
+D. Ingesting any more sodium than the body needs will increase blood pressure unless it is eliminated from the body.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,400_to_439
+426,group_1,B,"[""B"", ""B"", ""B"", ""B"", ""B""]",B,1.0,True,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Among vertebrate fossils, shark teeth are one of the most common fossils.However, the fossils of shark skeletons are very rare.Compared with the discovery of skeleton fossils of other vertebrates, the discovery of shark skeleton fossils is better than nothing.
+
+Question:
+
+If any of the following statements are true, will it be most helpful to resolve the doubts above?
+
+Options:
+
+A. The shark's teeth need to be replaced many times in its lifetime, but the shark's skeleton is not changed for life, only one skeleton.
+B. Compared to the skeletons of teeth or other vertebrates, shark cartilage skeletons are less likely to form fossils.
+C. The process of petrification of the shark skeleton is the same as the physical changes experienced by the petrification of the shark teeth.
+D. It is indeed confusing to find the skeleton fossil where the shark tooth fossil was found.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,400_to_439
+427,group_2,A,"[""A"", ""A"", ""A"", ""A"", ""A""]",A,1.0,True,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+The nutritional value is evaluated based on the content of 27 kinds of human essential nutrients.Vegetables with particularly high water content have low nutritional value.The water content of yam is low, so the nutritional value of yam will be high.
+
+Question:
+
+Which of the following reasoning has the same form as the above reasoning?
+
+Options:
+
+A. Stars are all self-luminous, Venus is not a star, so Venus is not self-luminous.
+B. Commodities have use value, and of course air has use value, so air is a commodity.
+C. Everyone who desires success works hard, he does not work hard, so he is not a person who desires success.
+D. All contracts concluded by fraud are invalid, and invalid contracts are not binding.Therefore, all non-binding contracts are concluded by fraud.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,400_to_439
+428,group_3,B,"[""C"", ""C"", ""C"", ""C"", ""C""]",C,1.0,False,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+The legislature is discussing a proposal to ban fishing in Huanglong Bay.Although the ban on fishing will have a significant impact on the local economic industry, which is mainly supported by the fishing industry, this proposal must also be implemented.Huanglong Bay is one of the areas with the highest water pollution levels.Recent studies have shown that 80% of the fish in Huanglong Bay contains toxins that exceed national safety standards.Continued fishing will cause serious harm to public health.
+
+Question:
+
+Which of the following statements most accurately expresses the underlying principles underlying the above argument?
+
+Options:
+
+A. The principle of taking necessary precautions based on foreseeable consequences.
+B. Based on the foreseeable consequences, the principle of taking advantage of the two evils is preferred.
+C. The principle of prohibiting harm to others is adopted based on foreseeable consequences.
+D. The principle of presumption of innocence is adopted based on the fact that there is no evidence of guilt.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,400_to_439
+429,group_1,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+In the past 100 years, in the Dali Lake area, a long-term drought has shrunk a lot of grassy wetlands into saline land.The grassy wetland is where ducks, geese and other species of waterbirds nest and hatch.However, with the continuous shrinkage of the wetlands, the average rate of decline in the number of red ducks in this area is far lower than the average rate of decline in the number of swans.
+
+Question:
+
+If which of the following statements is true, gives the best explanation for the inconsistency above?
+
+Options:
+
+A. Red ducks hatch 8 to 10 eggs per nest, and swans hatch 2 to 3 eggs per nest.The survival rate is about the same.
+B. The strengthening of environmental protection measures has slowed down the average decline in the number of red ducks, swans and other species of waterbirds.
+C. Both red ducks and swans are migratory birds, and red ducks are more likely to be killed during the migration process.
+D. In addition to the wetlands, red ducks gradually learned to nest in tree caves and cliff caves, but swan failed to do so.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,400_to_439
+430,group_2,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+There are 6 clear flower porcelains? S, Y, M, Q, K, X.The production time of each piece is different.From left to right, the exhibitions are sorted in order from the earliest to the latest.The known sorting conditions are as follows? (1) M is older than X.(2) If Y is earlier than M, then Q is earlier than K and X.(3) If the age of M is earlier than Y, the age of K is earlier than Q and X.(4) The age of S is either earlier than Y or earlier than M, and both have neither.
+
+Question:
+
+Which of the following lists the possible exhibition order?
+
+Options:
+
+A. Q.M.S, K.Y.X
+B. Q, K.Y, M.X, S
+C. Y.S, M.X.Q, K
+D. M, K, S, Q, Y, X
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,400_to_439
+431,group_3,A,"[""A"", ""A"", ""A"", ""A"", ""B""]",A,0.8,True,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+There are 6 clear flower porcelains? S, Y, M, Q, K, X.The production time of each piece is different.From left to right, the exhibitions are sorted in order from the earliest to the latest.The known sorting conditions are as follows? (1) M is older than X.(2) If Y is earlier than M, then Q is earlier than K and X.(3) If the age of M is earlier than Y, the age of K is earlier than Q and X.(4) The age of S is either earlier than Y or earlier than M, and both have neither.
+
+Question:
+
+If the age of Y is the second earliest, which of the following statements might be true?
+
+Options:
+
+A. The age of K is earlier than that of S.
+B. The age of K is earlier than Q.
+C. M is older than S.
+D. M is older than Y.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,400_to_439
+432,group_1,D,"[""B"", ""B"", ""B"", ""B"", ""B""]",B,1.0,False,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+There are 6 clear flower porcelains? S, Y, M, Q, K, X.The production time of each piece is different.From left to right, the exhibitions are sorted in order from the earliest to the latest.The known sorting conditions are as follows? (1) M is older than X.(2) If Y is earlier than M, then Q is earlier than K and X.(3) If the age of M is earlier than Y, the age of K is earlier than Q and X.(4) The age of S is either earlier than Y or earlier than M, and both have neither.
+
+Question:
+
+If the age of X is earlier than S, which of the following statements might be true?
+
+Options:
+
+A. Y is older than M.
+B. Y is older than Q.
+C. S is older than M.
+D. S is older than K.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,400_to_439
+433,group_2,C,"[""C"", ""C"", ""C"", ""C"", ""C""]",C,1.0,True,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+There are 6 clear flower porcelains? S, Y, M, Q, K, X.The production time of each piece is different.From left to right, the exhibitions are sorted in order from the earliest to the latest.The known sorting conditions are as follows? (1) M is older than X.(2) If Y is earlier than M, then Q is earlier than K and X.(3) If the age of M is earlier than Y, the age of K is earlier than Q and X.(4) The age of S is either earlier than Y or earlier than M, and both have neither.
+
+Question:
+
+If the age of M is earlier than Q but later than K, which of the following statements might be true?
+
+Options:
+
+A. Y is older than S.
+B. S is older than M.
+C. Q is older than X.
+D. Y is older than M.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,400_to_439
+434,group_3,A,"[""A"", ""A"", ""A"", ""A"", ""A""]",A,1.0,True,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+There are 6 singers? F, G, L, K, H, M.3 piano accompaniment? X, Y, W.Each piano accompanimentist happened to accompany two of the singers.Known condition information is as follows? (1) If X is F accompaniment, then W is L accompaniment.(2) If X is not a G accompaniment, then Y is an M accompaniment.(3) X or Y is H accompaniment.(4) F and G do not share accompaniment; L and K do not share accompaniment; H and M do not share accompaniment.
+
+Question:
+
+Which of the following lists the possible combinations of accompaniment and singer?
+
+Options:
+
+A. X is the accompaniment of G and H; Y is the accompaniment of F and K? W is the accompaniment of L and M.
+B. X is F and H accompaniment; Y is L and M accompaniment; W is G and K accompaniment.
+C. X is the accompaniment of G and M; Y is the accompaniment of F and H; w is the accompaniment of L and K.
+D. X is L, H accompaniment; Y is F, K accompaniment; W is G, M accompaniment.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,400_to_439
+435,group_1,A,"[""A"", ""A"", ""A"", ""A"", ""A""]",A,1.0,True,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+There are 6 singers? F, G, L, K, H, M.3 piano accompaniment? X, Y, W.Each piano accompanimentist happened to accompany two of the singers.Known condition information is as follows? (1) If X is F accompaniment, then W is L accompaniment.(2) If X is not a G accompaniment, then Y is an M accompaniment.(3) X or Y is H accompaniment.(4) F and G do not share accompaniment; L and K do not share accompaniment; H and M do not share accompaniment.
+
+Question:
+
+If X is an accompaniment to L and H, which of the following statements must be true?
+
+Options:
+
+A. W is K accompaniment.
+B. Y is F accompaniment.
+C. G and K are accompanied by the same accompaniment.
+D. F and M are accompanied by the same accompaniment.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,400_to_439
+436,group_2,B,"[""A"", ""B"", ""B"", ""B"", ""B""]",B,0.8,True,True,"[""Final Answer: A"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+There are 6 singers? F, G, L, K, H, M.3 piano accompaniment? X, Y, W.Each piano accompanimentist happened to accompany two of the singers.Known condition information is as follows? (1) If X is F accompaniment, then W is L accompaniment.(2) If X is not a G accompaniment, then Y is an M accompaniment.(3) X or Y is H accompaniment.(4) F and G do not share accompaniment; L and K do not share accompaniment; H and M do not share accompaniment.
+
+Question:
+
+If W is the accompaniment of F and M, which pair of singers can X accompany?
+
+Options:
+
+A. G and H
+B. G and K
+C. L and H
+D. L and K
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,400_to_439
+437,group_3,C,"[""C"", ""C"", ""C"", ""C"", ""C""]",C,1.0,True,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+There are 6 singers? F, G, L, K, H, M.3 piano accompaniment? X, Y, W.Each piano accompanimentist happened to accompany two of the singers.Known condition information is as follows? (1) If X is F accompaniment, then W is L accompaniment.(2) If X is not a G accompaniment, then Y is an M accompaniment.(3) X or Y is H accompaniment.(4) F and G do not share accompaniment; L and K do not share accompaniment; H and M do not share accompaniment.
+
+Question:
+
+W cannot accompany any of the following singers?
+
+Options:
+
+A. F and K
+B. F and L
+C. K and H
+D. G and K
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,400_to_439
+438,group_1,A,"[""A"", ""A"", ""A"", ""A"", ""A""]",A,1.0,True,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+There are 6 singers? F, G, L, K, H, M.3 piano accompaniment? X, Y, W.Each piano accompanimentist happened to accompany two of the singers.Known condition information is as follows? (1) If X is F accompaniment, then W is L accompaniment.(2) If X is not a G accompaniment, then Y is an M accompaniment.(3) X or Y is H accompaniment.(4) F and G do not share accompaniment; L and K do not share accompaniment; H and M do not share accompaniment.
+
+Question:
+
+It is impossible for Y to accompany the following pair of singers?
+
+Options:
+
+A. G and H
+B. L and H
+C. F and L
+D. F and M
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,400_to_439
+439,group_2,D,"[""B"", ""B"", ""B"", ""B"", ""B""]",B,1.0,False,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Professors? The United States, Canada and other countries have long enrolled masters and doctoral students in writing, and we are still calling for the right to award degrees in writing.This is a very different attitude towards applied and technical disciplines.Are we wrong, or are we wrong?
+
+Question:
+
+Which of the following questions is most important to assess the rationality of the above argument?
+
+Options:
+
+A. If we are allowed to recruit masters and doctors in writing, how many people will apply for this major?
+B. Do we have the qualifications for the faculty and subject research in writing to recruit masters and doctors?
+C. Have we applied for masters and Ph.Ds in other applied and technical disciplines other than writing?
+D. Should we pay attention to the cultivation of master's degree and doctoral degree in applied and technical disciplines?
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,400_to_439
+440,group_3,C,"[""A"", ""A"", ""A"", ""A"", ""A""]",A,1.0,False,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+When a musicologist bought a mobile phone number in a communication store, he found that a number was more than half cheaper than the others, and asked the clerk, ""Why is this?"" The clerk said, ""This number is not good."" It turns out that the mantissa of this number is 1414, and many people taboo its homonym ""to die"".But the musician started to sing, and it was indeed trembling, the homonym was ""all hair and hair"" and I was very happy to buy this number.
+
+Question:
+
+If the above statement is true, which of the following statements cannot be supported?
+
+Options:
+
+A. It is foolish to taboo or accept the meaning implied by digital homophony.
+B. The meaning implied by digital homophony will affect the behavior of buying numbers.
+C. People can attach different ideas to the same number.
+D. The meaning implied by the number and its homophony is not unique.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,440_to_479
+441,group_1,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+In Zululand, South Africa, a rhinoceros is poached every 17 hours.Operation “Flying Rhinoceros” carefully selected 114 white rhinos and 10 black rhinos from the Umfor Lodge Conservation Area, and airlifted them to a secret area in South Africa to protect the rhinos, hoping that the rhinos could reproduce and grow naturally here.Grow to avoid the doom of extinction caused by poaching.
+
+Question:
+
+Which of the following statements is not a hypothesis for the ""flying rhino"" action?
+
+Options:
+
+A. The secrecy measures for the new rhino home are strict, because poachers do not know where there are rhinos
+B. Give rhinos that the new home of choice is suitable for the breeding and growth of white and black rhinos
+C. Residents living near the new rhino ’s home will not be poached for expensive rhinoceros feet
+D. 60 years ago, a protection transfer operation to avoid the extinction of the black rhino was successful
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,440_to_479
+442,group_2,A,"[""A"", ""A"", ""B"", ""C"", ""A""]",A,0.6,True,False,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: B"", ""Final Answer: C"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Scientists, just like the earth, there is also a hot lava core inside Venus.With the autobiography and revolution of Venus, huge heat will be released.The earth releases internal heat through volcanic eruptions generated by plate tectonic movement.There is no volcanic eruption like the plate tectonic movement, which is confusing.
+
+Question:
+
+If the following statement is true, which one gives the best explanation for the scientist's confusion?
+
+Options:
+
+A. The autobiography of Venus is slow and its outer shell is much thinner than the earth, which is convenient for the internal heat release
+B. The greenhouse effect caused by carbon dioxide in Venus ’atmosphere makes its surface temperature as high as 485 ℃
+C. Due to the effects of high temperature and high pressure, the rock on the surface of Venus is harder than the rock on the surface of the earth
+D. The lava movement in the inner core of Venus used to have more severe temperature fluctuations than the rock movement of the earth
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",1.371,440_to_479
+443,group_3,C,"[""C"", ""C"", ""C"", ""C"", ""C""]",C,1.0,True,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Dali Lake is a plateau dammed lake formed by eruption of volcanoes.The whale croaker, S.sylvaticus, living in the brackish water lake, like salmon living in the sea, must migrate to the upper reaches of the freshwater river to spawn Although the four rivers currently injecting into Dali Lake are all inland rivers, and none of the rivers lead to the ocean, scientists are still convinced that the Chinese fish in Dali Lake originally migrated from the ocean.
+
+Question:
+
+Which of the following statements is true and provides the best explanation for scientists ’beliefs?
+
+Options:
+
+A. The yellow croaker that lives in the waters of Heilongjiang and other areas is twice as large as the Japanese croaker which is in Dali Lake
+B. The fish caught in seawater or freshwater can only survive for a day or two, and quickly decay after death.
+C. The glacier melted to form Dali Lake.The overflowing lake water was once connected to the Liaohe River flowing into the ocean
+D. The scientific researcher put the fry of the fish of Dali Lake in the Dali Lake, thousands of miles away, the breeding is successful
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,440_to_479
+444,group_1,C,"[""C"", ""C"", ""C"", ""C"", ""C""]",C,1.0,True,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Laws protecting wild animal populations should not be compulsorily applied to hunting activities that depend on the capture of wild animals but do not threaten the continuation of wild animal populations
+
+Question:
+
+If the following statement is true, which one is the strongest proof of the justification of the above principle?
+
+Options:
+
+A. For any profit-taking purpose of capturing wild animals, the Wildlife Protection Law should be enforced
+B. Although the eyeglass cord is protected by law, the act of killing the eyeglass cord due to the threat to human life will not be punished by law
+C. The Inuit in the northernmost part of the polar region feed on bowhead whales, and the number of bowhead whales captured is much lower than the number of newly survived bowhead whales each year.
+D. Humans have hunted elephants for thousands of years and have not extinct the elephant populations, so it is not necessary to enforce laws protecting wild elephants
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,440_to_479
+445,group_2,C,"[""B"", ""B"", ""B"", ""B"", ""B""]",B,1.0,False,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+In 2014, many stars were arrested by the police for drug involvement.On August 13, the Beijing Performance Industry Association and major performance companies signed the ""Beijing Performance Industry Commitment to Combat Drugs"", promising not to hire or organize drug-related entertainers to participate in performing arts activities.A lawyer responded? ""There is no employment discrimination, because there are many other occupations to choose from.""
+
+Question:
+
+Which of the following points out the logical question in the lawyer ’s answer?
+
+Options:
+
+A. According to the lawyer, anyone who engages in employment discrimination can defend himself like him
+B. The lawyer did not consider that it is difficult for a person who has received many years of vocational training and is only good at acting to change careers.
+C. The lawyer replied that it was inconsistent with the regulations of the State Council ’s Drug Rehabilitation Regulations on “non-discrimination in reemployment of drug addicts”
+D. The lawyer wrongly assumed that the performing arts industry has a higher professional ethics level than other industries
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,440_to_479
+446,group_3,D,"[""B"", ""B"", ""B"", ""C"", ""B""]",B,0.8,False,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: C"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+When an acting star was accused of evading personal income tax, she defended herself and said? ""For many years, I have paid millions of personal income tax, which is more than that paid by the state-owned machinery factory where my cousin is.There is still a lot of taxes, is this also a sin? ""
+
+Question:
+
+Which of the following statements most accurately points out the flaws in the above defense
+
+Options:
+
+A. The more personal income tax paid proves that she is richer, such people should be heavily punished for tax evasion
+B. The amount of tax paid by a person does not prove that she pays the tax payable on every income.
+C. The attributes possessed by a part are not usually possessed by the whole
+D. The individual pays more taxes than the state-owned machinery factory, which does not mean that her contribution to society is greater than that of the state-owned machinery factory
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,440_to_479
+447,group_1,D,"[""A"", null, ""A"", ""D"", ""D""]",A,0.5,False,False,"[""Final Answer: A"", ""Final Answer: (none of the above)"", ""Final Answer: A"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Students in a certain class are all football fans.During the 2014 World Cup, all students who supported the Argentine team did not support the German team, nor did any students who supported the Argentine team supported the Brazilian team.Some students who support the US team support the German team, and some students who support the US team support the Brazilian team.
+
+Question:
+
+If the above statement is true, which of the following statements about the students in the class must be true?
+
+Options:
+
+A. Some students who support the German team neither support the Brazilian team nor the American team
+B. Some students who support the US team neither support the German team nor the Brazilian team
+C. So the students who support the US team either support the Argentina team, or support the German team, or support the Brazil team
+D. Some students who support the Brazilian team support the German team
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",1.0,440_to_479
+448,group_2,B,"[""B"", ""D"", ""B"", ""D"", ""B""]",B,0.6,True,False,"[""Final Answer: B"", ""Final Answer: D"", ""Final Answer: B"", ""Final Answer: D"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+According to statistics, the number of people dying of hunger in the world is as high as 10 million a year, and the Chinese waste about 8 million tons of food on the table every year, which is supposed to be the ration of 1.1 billion people a year.This means that if we can effectively eliminate food waste on the table, we can save millions of hungry people.
+
+Question:
+
+If the following statement is true, which one is most appropriate to challenge the above conclusion?
+
+Options:
+
+A. Bad weather causes food prices to fluctuate, exacerbating the problem of hunger
+B. Today's agricultural development level has been able to protect the world's people from hunger from a total amount
+C. Consumption can promote economic development, and one way for the rich to help the poor is to increase waste
+D. Eliminating food waste is only a favorable condition to solve the problem of hunger
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.971,440_to_479
+449,group_3,D,"[""A"", ""A"", ""A"", ""B"", ""A""]",A,0.8,False,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: B"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+A netizen? Almost no one will support proposals that damage their interests.However, according to the ""Beijing Times"" report, in the 17-day ""I offer advice on public transport price reform"" activity, most of the tens of thousands of people who participated in the event agreed to raise subway and bus fares.Let everyone pay more and like it.This result must be fake.
+
+Question:
+
+If the following statement is true, all but one of them question the netizen's judgment?
+
+Options:
+
+A. Only those who are interested in the reform of public transport pricing participate in the activity, and the statistical results only reflect the opinions of this group of people
+B. People who participate in the activity rarely take the subway and bus, and raising the fare will not harm their interests
+C. Some people who commute by subway and bus think that raising the fare can ease congestion during peak hours
+D. Many citizens hope to increase the fare to improve the ride environment
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,440_to_479
+450,group_1,C,"[""B"", ""B"", ""B"", ""B"", ""B""]",B,1.0,False,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Overcapacity, local government debt and real estate bubbles are the three major diseases facing the Chinese economy.If not handled properly, it may lead to a hard landing of the Chinese economy.The root cause of the three major diseases is that China ’s long-term capital interest rate is low The return of capital costs to a reasonable position, the demand for overcapacity can be controlled, excessive pressure on real estate investment can be gradually released, the impulse of local governments to borrow money for development has not been suppressed It's hard to come.
+
+Question:
+
+If the above statement is true, which of the following statements must be true?
+
+Options:
+
+A. If the Chinese stock market has not yet ushered in a bull market, it must be that the three major diseases have not been effectively controlled
+B. If the impulse of local governments to borrow money for development is not suppressed, the domestic capital cost has not returned to a reasonable position
+C. If the stock market ushered in a bull market, it must be that domestic capital costs have not returned to a reasonable position
+D. As long as domestic capital costs return to a reasonable position, the Chinese economy will not land hard
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,440_to_479
+451,group_2,D,"[""C"", ""C"", ""C"", ""C"", ""B""]",C,0.8,False,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Tang Sanzhang and his entourage learned from the Western Heavens and encountered Flame Mountain.Eight precepts said, just go where there is no fire, Tang Sanzang said, I only want to go to the Jingli, sand monk said, there is a fire in the Jingji.Sand monk means that there is fire everywhere.
+
+Question:
+
+If the sand monk's words are true, which of the following statements must be true?
+
+Options:
+
+A. Some places without fire
+B. There is no fire in some places
+C. Wherever there is a fire, there is a sutra
+D. No fire anywhere
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,440_to_479
+452,group_3,B,"[""C"", ""C"", ""C"", ""C"", ""C""]",C,1.0,False,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+The world's first bicycle was invented in 1847.After the emergence of bicycles, they only disappeared for a short period of time and disappeared.They did not reappear until 1860.Why did this happen? Only when a new technology is consistent with the values ​​of society will the technology be accepted.Therefore, there must have been some changes in social values ​​between 1817 and 1860.
+
+Question:
+
+The reasoning in the above reasoning is flawed because of the argument?
+
+Options:
+
+A. Ignore the possibility of the bicycle being accepted again
+B. raised a question that has little to do with the conclusion of the argument
+C. Misconception that the bicycle reappeared in 1860 indicates that it was reaccepted
+D. Without giving a reasonable explanation, it is deemed to be truly accepted
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,440_to_479
+453,group_1,B,"[""B"", ""B"", ""B"", ""B"", ""B""]",B,1.0,True,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Umbilical cord blood refers to the blood left in the placenta and the umbilical cord after the baby is delivered and the umbilical cord is ligated and cut off.The hematopoietic stem cells contained in it can cause leukemia and severe anemia.Some malignant tumors and other diseases have significant curative effects, and they are precious self-help resources that are no longer missing in life.Parents preserve cord blood for newborns, which can provide a guarantee for the child's health throughout life.
+
+Question:
+
+If the following statement is true, all but one of the items can weaken the conclusion discussed above
+
+Options:
+
+A. At present, the probability of stem cell transplantation due to blood diseases in China is extremely small, and the cost of storing cord blood is expensive
+B. Umbilical cord blood, peripheral blood, and bone marrow have become the three major sources of hematopoietic stem cells
+C. At present, umbilical cord blood is not the most effective way to treat many malignant diseases in clinic, but is an adjuvant treatment
+D. Umbilical cord blood is usually stored at 50 ml, so such a small amount has little effect on the treatment of most adults
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,440_to_479
+454,group_2,C,"[""C"", ""C"", ""C"", ""C"", ""C""]",C,1.0,True,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Sophist? Because 6 is greater than 4, and 6 is less than 8, 6 is both large and small.
+
+Question:
+
+Which of the following ways of reasoning is most similar to the reasoning of the above-mentioned sophisters
+
+Options:
+
+A. Because Laozi is more intelligent than Mencius, Laozi has a better view of goodness than Mencius.
+B. Because Zhang Qing drinks Tonghua glucose when he is healthy, it is sweet, and when he is sick, drinking Tonghua glucose is sour, so Tonghua glucose is both sweet and sour.
+C. Because Zhao Feng is taller than Li Tong, and Zhao Feng is shorter than Wang Lei, Zhao Feng is both tall and short
+D. Because a wooden stick is usually straight, but it looks curved in the water, this wooden stick is both straight and curved.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,440_to_479
+455,group_3,B,"[""A"", ""A"", ""A"", ""A"", ""A""]",A,1.0,False,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+In August 2014, more than 200 Russian trucks carrying relief supplies entered eastern Ukraine.If the Ukrainian government ’s military operations in the east directly or indirectly attacked the Russian convoy, it may trigger the Russian side to take strong measures; if the Ukrainian government army temporarily Stopping military operations in the east to ensure the safety of the Russian convoy will give the civilian armed forces in a disadvantage a breathing opportunity
+
+Question:
+
+If the above statement is true, which of the following must be true?
+
+Options:
+
+A. If the Ukrainian government forces attack the Russian convoy, there will be no chance for the civilian armed forces to take a breather
+B. If the Ukrainian government army does not give the civilian armed forces a breathing opportunity, it may trigger the Russian side to take strong measures
+C. If civilian armed forces in eastern Ukraine take a breather, Russia will not take strong measures
+D. The Russian convoy entered Ukraine to help civilian armed forces in eastern Ukraine
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,440_to_479
+456,group_1,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Many colleges and universities in China held four job fairs in Toronto, New York, Boston, and San Francisco.The questionnaire survey for Chinese students attending the fair showed that 67% of people want to return to work, 33% of people will be serious Consider the option of returning home.It can be seen that the international students in the US task force have lost their attraction, and the popular feelings have become common practice.
+
+Question:
+
+If the following statement is true, which one would most strongly weaken the above argument?
+
+Options:
+
+A. Chinese students participating in the questionnaire survey may not express their best wishes
+B. If Chinese students in North America cannot find a job when they return home, it will disappoint them
+C. 67 ﹪ and 33 ﹪ add up to 100 ﹪, which means zero people want to stay and work in North America
+D. Among the Chinese students in North America, those who do not intend to return to work did not attend the job fair
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,440_to_479
+457,group_2,D,"[""B"", ""B"", ""B"", ""B"", ""B""]",B,1.0,False,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+The traditional view believes that the origin of the names of the Eight Diagrams and Sixty-four Diagrams in Zhouyi is fiction, or there is no meaning.There is no other explanation.The fiction says that the Eight Diagrams are named after the name of an object, For example, Qiangua is the heaven, and Qian is the ancient Chinese character, so it is named Qian; in the sense of meaning, the image of hexagrams represents the principle of things, and its rationality is taken as the name of a hexagram.The Lord is supple, so the hexagram is Kun, and Kun is the meaning of suppleness
+
+Question:
+
+Which of the following statements is true, which most seriously shakes the traditional view of the origin of the Gua name?
+
+Options:
+
+A. The reason why the two hexagrams of Qiankun ranks first among the sixty-four hexagrams is because the Qian gua represents heaven and the Kun gua represents earth.
+B. The hexagram name cannot be explained by the orientation theory alone, nor can it be explained by the sense of meaning alone.Only by combining the two can we give an explanation of all hexagram names
+C. Although there are many different explanations for the origin of the Gua name, it is inseparable from its sect, either attributed to the theory of fetching images, or attributed to the theory of fetching meanings
+D. The name of the hexagram comes from the account of the narration of the hexagram.Kun Guazhan asked about the loss of the horse.At the beginning, he had three elephants.He believed that the horse could be found and was named Kun.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,440_to_479
+458,group_3,B,"[""B"", ""B"", ""B"", ""B"", ""B""]",B,1.0,True,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+In ball games, it is wrong to use replay to determine the penalty, because no matter how many cameras track the game on the field, it is inevitable that some foul actions will be missed.It is impossible to be aware of what happened before you.
+
+Question:
+
+The defect of which of the following arguments is most similar to the above argument
+
+Options:
+
+A. Knowledge is a virtue, because no one does it on purpose
+B. We should not ask the police because they cannot stop all criminal activities
+C. Trial marriage is not immoral, because anyone who buys clothes can try on
+D. Faith cannot create reality, because taking something as true does not make it true
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,440_to_479
+459,group_1,C,"[""B"", ""B"", ""B"", ""B"", ""B""]",B,1.0,False,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Scientists assume that a special type of fat, ""P.fat"", is necessary for the development of vision.Scientists have observed that infants fed formula milk with low P.fat have better vision than breastfed infants.It ’s poor, and the content of P.fat in breast milk is high, so they put forward the above hypothesis.In addition, they also found that babies born prematurely 5-6 weeks have worse vision than babies born at full term
+
+Question:
+
+If any of the following statements is true, will it most support the hypothesis of the above scientists?
+
+Options:
+
+A. The fetus only increased the amount of P.fat obtained from the mother during the last 4 weeks of pregnancy
+B. Old people who lack P.fat in their daily diet have poorer vision than adults with high levels of P.fat in their daily diet
+C. Fetal vision developed during the last 3 months of pregnancy.
+D. Poor eyesight of the mother does not cause poor eyesight of the baby
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,440_to_479
+460,group_2,C,"[""B"", ""B"", ""A"", ""B"", ""A""]",B,0.6,False,False,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: A"", ""Final Answer: B"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+The important difference between a civilized man and a barbarian or other animals is to suppress the instinctive impulse through foresight.Only when a person does something is not driven by instinctive impulse, but because his reason tells him, At some point in the future he will benefit from it, and then there is real foresight.Cultivating the land is a far-sighted action, people work in the spring to eat food in winter
+
+Question:
+
+Which of the following statements is the hypothesis that the above argument relies on?
+
+Options:
+
+A. Is it possible to suppress the instinctive impulse by thinking deeply, this is the only difference between civilized people and barbarians or other animals
+B. Actions such as squirrel burying chestnuts and arctic fox burying bird eggs are purely instinct-driven actions
+C. The stronger the restraint of one's own instinct impulses, the greater the tolerance of the current pain, and therefore the higher the degree of civilization
+D. People not only suppress their instinctive impulses through their foresight, but also suppress their instinct impulses through external laws, customs and religions.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.971,440_to_479
+461,group_3,C,"[""C"", ""A"", ""C"", ""D"", ""C""]",C,0.6,True,False,"[""Final Answer: C"", ""Final Answer: A"", ""Final Answer: C"", ""Final Answer: D"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Nutritionist? All medical studies to date have shown that drinking 3 cups or less of coffee a day will not cause damage to the heart.Therefore, if you are a modest coffee drinker, then you can enjoy coffee with confidence, without worrying about coffee harming people's health
+
+Question:
+
+Which of the following statements most preparedly points out the shortcomings of the above argument?
+
+Options:
+
+A. Coffee drinkers may consume other foods that are harmful to the heart while drinking coffee
+B. The nutritionist ’s conclusions are based only on relevant research results, lacking the support of clinical data
+C. Drinking coffee is harmless to the heart does not mean harmless to the body
+D. People who drink coffee often have greater psychological pressure, and the larger psychological pressure itself is harmful to the heart.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",1.371,440_to_479
+462,group_1,A,"[""B"", ""D"", ""D"", ""B"", ""B""]",B,0.6,False,False,"[""Final Answer: B"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Thomas Paine discusses the question of whether the monarchy and hereditary system are reasonable in the book ""Common Knowledge"".For those who believe that the hereditary system is reasonable, Paine asked and answered, how did the original king come about? There are only three possibilities, either by lottery, election or by usurping power.If the first king is selected by lottery or election, this will set a precedent for future kings and thus negate hereditary practices.If the first king was obtained by usurping power, no one would be so bold and dare to defend the hereditary throne
+
+Question:
+
+Which of the following best describes the techniques used in Paine ’s argument
+
+Options:
+
+A. Demonstrate that a proposition contradicts a certain proposition that has been established as true
+B. A proposition can lead to a false conclusion to prove that the proposition is not true
+C. Demonstrate that this proposition is true by showing that all possible explanations lead to the same proposition
+D. By excluding all other possible explanations, to prove that the remaining explanation is true
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.971,440_to_479
+463,group_2,A,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,False,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Sometimes, a person can not accurately explain the meaning of an abstract word, but can use this word very appropriately for language expression.It can be seen that understanding a word does not necessarily depend on precise interpretation of the meaning of the word.
+
+Question:
+
+Which of the following statements can provide the best support for the above conclusion?
+
+Options:
+
+A. The meaning of abstract words is not easy to be accurately interpreted
+B. If a person can accurately explain the meaning of a word, then he understands the word
+C. A person cannot accurately explain the meaning of a word, does not mean that other people can not accurately explain the meaning of the word
+D. If a person can properly use a word for language expression, then he understands the word
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,440_to_479
+464,group_3,B,"[""B"", ""B"", ""B"", ""B"", ""B""]",B,1.0,True,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Some online media reported that let the rice listen to the song of thanksgiving can increase 15%.The results of three consecutive seasons of rice cultivation in Liangshan Village, Fujian confirmed that listening to the Dabei Mantra not only increased by 15%, but also the rice grains were fuller.Some agricultural experts said that music not only helps plants absorb, transfer and transform nutrients, but also achieves insect repellent effects
+
+Question:
+
+The answer to which of the following questions is least relevant to assess the authenticity of the above report?
+
+Options:
+
+A. Are the other growing conditions of the rice that listens to the Da Bei mantra exactly the same as those that do not listen to the Da Bei mantra?
+B. Is this method feasible for large-scale promotion?
+C. Can experts explain why Da Bei Man is beneficial to the growth of rice but not to the growth of pests?
+D. Does the expert's explanation have reliable theoretical support?
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,440_to_479
+465,group_1,D,"[""D"", ""D"", ""D"", ""B"", ""D""]",D,0.8,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: B"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Regarding how to define ""naked officials"", the ""Interim Provisions"" clarified the following three categories of national staff as ""naked officials""? spouses and children have moved outside the country (border); no children The spouse has moved outside the country (boundary); without the spouse, the children have moved outside the country (boundary).In 2014, the Central Organization Department issued the relevant ""Administrative Measures"" stipulating that? If the spouse has moved outside the country (boundary) or has no spouse, the national staff who have moved outside the country (boundary) are all ""naked officials"".
+
+Question:
+
+Which of the following statements is consistent with the above two documents?
+
+Options:
+
+A. According to the ""Administrative Measures"", only national staff whose children have migrated outside the country (border) are ""bare officials""
+B. For national staff with both spouses and children, the provisions of the two documents are the same
+C. According to the ""Interim Regulations"", as long as the spouse of a staff member of a certain country has moved outside the country (border), he or she is a ""naked official""
+D. For national staff with only spouse and no children, the provisions of the two documents are the same
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,440_to_479
+466,group_2,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+The mode in which the government and private enterprises cooperate to complete a project (referred to as PPP) can enable the government to obtain funds, and can also allow social capital to enter the public utility fields such as power and railway.The problem with this model is that the government defaults or investors default, causing economic losses to the other party.In past PPP projects, government default was not a small probability event.Although local government defaults are not uncommon, investors continue to actively invest in PPP projects as always.
+
+Question:
+
+If any of the following statements are true, can we best explain the seemingly contradictory phenomenon?
+
+Options:
+
+A. With the reform of the economic system and the promotion of new urbanization, the PPP model has high hopes from all walks of life
+B. The PPP model is more complicated, and the local government ’s bargaining power and PPP expertise are not as good as those of investors.
+C. This year, the National Development and Reform Commission released 80 important projects to encourage social capital to participate in construction and operation through PPP and other means
+D. In order to prevent economic losses caused by local government defaults, investors try to transfer other interests to their own enterprises
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,440_to_479
+467,group_3,A,"[""B"", ""B"", ""B"", ""B"", ""B""]",B,1.0,False,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Li Ming is likely to be a senior logic teacher.Like most senior logic teachers, Li Ming is familiar with Gödel's completeness theorem and incompleteness theorem, and most people who are not senior logic teachers are not familiar with these theorems.In fact, many people who are not senior logic teachers have not even heard of Gödel.
+
+Question:
+
+Which of the following statements accurately points out the shortcomings of the above reasoning?
+
+Options:
+
+A. Ignore this possibility? most people who are familiar with these theorems of Gödel are not senior logic teachers
+B. Ignore this possibility? some senior logic teachers are not familiar with these theorems of Gödel
+C. The concept of ""senior"" in reasoning is a vague concept
+D. Without proof, it is concluded that people who are not familiar with Gödel's completeness theorem and incompleteness theorem have not heard of Gödel
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,440_to_479
+468,group_1,A,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,False,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Due to the aging population, the German government is facing a dilemma? if the pension system is not reformed, pensions will be unsustainable.Policies to solve this dilemma include increasing the proportion of pension contributions, reducing the level of pension payments, and increasing the retirement age.Among them, the resistance to raising the retirement age is the biggest.The government implementing this policy may lose a lot of votes in the next election.However, the German government completed the legal process in 2007, raising the retirement age from 65 to 67.
+
+Question:
+
+If any of the following statements is true, can it best explain why the German government risked adopting this policy?
+
+Options:
+
+A. In 2001, Germany established the upper limit of pension payment in legal form, and in 2004 established the lower limit of pension payment, the two policies have been used to the extreme
+B. In order to reduce the pressure, the German government requires a transition period of 20 years from 2012 to achieve the retirement age from 65 to 67 years
+C. After one year of retirement, the pension reduction can reach nearly 1% of GDP.
+D. Now the average life expectancy of Germans has greatly increased, and pensioners have been receiving longer pensions
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,440_to_479
+469,group_2,D,"[""C"", ""D"", ""A"", ""C"", ""C""]",C,0.6,False,False,"[""Final Answer: C"", ""Final Answer: D"", ""Final Answer: A"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Why did ancient Greece have a city-state system, but there was a long-standing monarchy in Eastern countries? Aristotle believes that the monarchy is often seen among barbarians and is very close to the tyrant or tyrant system.Because the nature of the barbarian people is inherently more national and more enslaved than Greece, and the slavishness of the Asian barbarians is more than that of the Europa barbarians, so they are subject to dictatorship and do not rebel.
+
+Question:
+
+If the following statements are true, all but one can weaken Aristotle ’s interpretation
+
+Options:
+
+A. City-state manufacturing has brought about the autonomy of citizens, and the monarchy has created the slavery of Shunmin.
+B. The difference in geographical environment has created the difference between the city-state system and the monarchy
+C. Aristotle's explanation is emotionally difficult for most Orientals to accept
+D. The difference between civilized people and barbarians is caused by different cultural and social organizations
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",1.371,440_to_479
+470,group_3,C,"[""C"", ""C"", ""C"", ""C"", ""C""]",C,1.0,True,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+The battery used by the American electric vehicle TESLA consists of nearly 7000 Panasonic 18650 batteries connected in series.Large battery packs connected in parallel.The safety of the TESLA battery power system has been questioned by the automotive industry.A battery expert said that the probability of fire for 18650 batteries in the United States is 0.2 parts per million, then the probability of fire for a battery pack consisting of 7,000 small batteries is 0.14%.Based on the current sales of TESLA.this It caused a battery fire accident almost every month.
+
+Question:
+
+If the following statement is true, which one most powerfully weakened the expert's judgment?
+
+Options:
+
+A. 18650 battery has the characteristics of large energy density, stability and good consistency
+B. Billions of 18650 batteries are produced every year in the world, and their safety level is constantly improving
+C. TESLA has a very advanced battery management system, which will automatically disconnect the output of abnormal battery cells
+D. 18650 battery can be recharged many times, so the service life of the battery is greatly extended
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,440_to_479
+471,group_1,B,"[""C"", ""C"", ""D"", ""C"", ""C""]",C,0.8,False,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: D"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+The Arctic region is rich in oil.natural gas.Mineral and fishery resources, their oil and gas reserves account for a quarter of the world's undeveloped oil and gas resources.Global warming has caused the ice surface in the Arctic to melt at a rate of 9% every 10 years.The route that crosses the Arctic Ocean along the northern coastline of Russia and connects the Atlantic and Pacific Oceans can reach tens of thousands of kilometers from Asia to Europe than the Panama Canal.Therefore, the development and utilization of the Arctic will bring huge benefits to mankind
+
+Question:
+
+If the following statement is true, in addition to which one can weaken the above argument?
+
+Options:
+
+A. Ships crossing the Arctic will bring invading creatures and destroy the Arctic ecosystem
+B. The international community has experienced many serious conflicts due to Arctic development issues, but the countries concerned have calmly shelved or dealt with low-key
+C. Exploitation of the Arctic will melt permafrost and release methane, a greenhouse gas, resulting in increased extreme weather
+D. Exploiting the Arctic will accelerate the melting of ice and snow, causing sea levels to rise and flooding coastal lowlands
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,440_to_479
+472,group_2,A,"[""A"", ""A"", ""A"", ""A"", ""A""]",A,1.0,True,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Dumping"" is defined as the act of selling such commodities in another country at a price lower than the production cost of the commodities.The prawn producers in country H are selling prawns in country M at a price lower than the production cost of the river prawns in country M.Therefore, shrimp producers in country H are dumping shrimp in country M.
+
+Question:
+
+Which of the following is necessary to evaluate the dumping behavior mentioned above?
+
+Options:
+
+A. ""Production cost"" in the definition of dumping refers to the production cost of the origin of the commodity or the production cost of similar commodities in the place of sale
+B. If country H has been selling shrimp in country M at a price lower than the production cost of shrimp in country M, the shrimp industry in country M will go bankrupt
+C. The experts reached a consensus on whether the dumping behavior is harmful or beneficial to the economies of the two countries, or whether it is harmful or beneficial to only one of them
+D. Due to the different methods of calculating the production cost of commodities, it is difficult to obtain accurate comparison values ​​of the production costs of the same commodity in different countries
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,440_to_479
+473,group_3,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""The reasoning described involves actively attempting to falsify quantum theory; when those attempts fail (the deviations are only within acceptable statistical limits) and the theory\u2019s predictions differ from those of rival theories, the conclusion is that quantum theory is reasonable to accept. This aligns with the principle that a theory that endures strict falsification attempts should be accepted.\n\nFinal Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Because the conclusion of quantum theory violates intuition, some scientists have different views on this theory.Although they try to strictly indicate that the assertion of quantum theory is inaccurate (that is, try to strictly falsify it), they find that the error lies in Usually within the acceptable statistical range.These results of quantum theory are different from those of competing theories, which makes it reasonable to accept quantum theory.
+
+Question:
+
+Which of the following principles is most helpful to show the rationality of the above reasoning?
+
+Options:
+
+A. A theory should not be considered reasonable before it is tried to strictly falsify
+B. Only if the assertion of a theory has not been falsified by experiments can this theory be accepted.
+C. If a scientific theory violates intuitive conclusions less than competing theories, then it should be accepted
+D. If you try to strictly falsify a theory, but the theory has withstood all the tests, then you should accept it
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,440_to_479
+474,group_1,A,"[""A"", ""A"", ""A"", ""A"", ""A""]",A,1.0,True,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Homo erectus originated in Africa about 2 million years ago and spread to Eurasia; modern people appeared about 200,000 years ago.Both human fossils are distributed in China.For example, the ""Beijing people"" unearthed in the ancient stratum of Zhoukoudian, Beijing belonged to Homo erectus; the ""shandingdong people"" in the stratum of the previous year belonged to modern people.A study of the contemporary Chinese population found that the Y chromosome inherited from the paternal lineage originated in Africa and originated in 8.9 10,000 years to 35,000 years ago; the mitochondrial DNA inherited from the maternal line originated in Africa, with a time of origin within 100,000 years; no genetic component of H.erectus was detected
+
+Question:
+
+If the above statement is true, which hypothesis is best supported?
+
+Options:
+
+A. The descendants of ""Beijing people"" may be extinct.The ancestors of Chinese contemporary people came to Asia from Africa about 100,000 years ago
+B. Chinese Homo erectus and modern people are from the African continent, and their hybrid descendants are the ancestors of contemporary Chinese
+C. The ""Stop Cave Man"" in Zhoukoudian, Beijing evolved from ""Beijing People""
+D. Contemporary Chinese are descendants of Homo erectus that spread from Africa to Eurasia 2 million years ago
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,440_to_479
+475,group_2,D,"[""C"", ""C"", ""C"", ""C"", ""C""]",C,1.0,False,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Huan Gong? ""Why do few people read the dross of the ancients?"" Lu Pian? ""According to my experience, when the wheels are made, the wheel holes are slightly larger and loose and not firm, and when they are small, they are difficult to enter.If you want to do something that is not too big, not too loose, you have to give it to your heart and give it to your hand.There is superb technology in it, but it ca n’t be conveyed in words, I ca n’t teach my son, so, I When you are seventy years old, you have to take a turn.The ancients are dead, and the essence they ca n’t tell is also followed by hours.Then what you are reading is the dross of the ancients.""
+
+Question:
+
+Which of the following statements is the hypothesis on which Lu Bian ’s argument relies?
+
+Options:
+
+A. In addition to the essence and dross, there are other contents worth reading
+B. If the essence cannot be spoken, reading is not only useless but harmful
+C. Superb technology cannot be taught to others through language
+D. In addition to superb technology, other essences are also unspeakable
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,440_to_479
+476,group_3,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""The chefs\u2019 results can be represented as ordered pairs \\((\\text{hot grade},\\text{cold grade})\\) where each grade is one of three levels (top, middle, bottom).  \nWe define a partial order: \\((a_1,b_1) \\ge (a_2,b_2)\\) iff both the hot grade and the cold grade are **not lower** (i.e., each component is at least as good).  \n\nThe condition \u201cChef\u202fA is more skilled than Chef\u202fB\u201d corresponds exactly to this partial order being strict in at least one component.\n\nThus we need a set of chefs such that **no chef\u2019s pair dominates another\u2019s pair** (otherwise one would be \u201cmore skilled\u201d than another). This is precisely an *antichain* in the poset formed by the \\(3 \\times 3\\) grid of possible pairs.\n\nThe poset\u2019s ranks are determined by the sum of the positions in the two chains:\n\n- Rank\u202f0: (bottom, bottom) \u2013 1 element  \n- Rank\u202f1: (bottom, middle), (middle, bottom) \u2013 2 elements  \n- Rank\u202f2: (bottom, top), (middle, middle), (top, bottom) \u2013 3 elements  \n- Rank\u202f3: (middle, top), (top, middle) \u2013 2 elements  \n- Rank\u202f4: (top, top) \u2013 1 element  \n\nThe largest layer (the one with the most elements) contains **3** elements (the middle layer). By Sperner\u2019s theorem, the maximum size of an antichain in this poset equals the size of its largest layer, which is 3.\n\nTherefore, at most **3 chefs** can satisfy the given conditions.\n\n**Answer:** D  \n\nFinal Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+In a cooking competition, the chef is required to make one hot dish and one cold dish, and the results are evaluated as ""top grade"", ""middle grade"", and ""bottom grade"".If each result of the chef is not lower than that of Chef B, and at least one item is higher than Chef B, it is said that ""Chef A is more skilled than Chef B"".There are a number of existing chefs, none of them is more skilled than the other, and no two people have the same hot dishes and cold dishes.
+
+Question:
+
+How many chefs can meet the above conditions?
+
+Options:
+
+A. unconfirmed
+B. 9 people
+C. 6 people
+D. 3 people
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,440_to_479
+477,group_1,A,"[""C"", ""D"", ""C"", ""B"", ""C""]",C,0.6,False,False,"[""Final Answer: C"", ""Final Answer: D"", ""Final Answer: C"", ""Final Answer: B"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+A fuel-efficient car of a certain brand sells for 270,000 yuan, while another ordinary one costs 170,000 yuan.According to the current gasoline prices and the test data of the fuel consumption of the two cars for 100 kilometers, people who buy this fuel-efficient car need to be at least 300,000 kilometers to make up for the higher price difference than buying ordinary cars.If the price of oil rises in the future, the mileage required to make up for the purchase price will increase accordingly.
+
+Question:
+
+Which of the following statements most pointed out the shortcomings of the above argument?
+
+Options:
+
+A. Arguments and conclusions are contradictory
+B. The argument cannot fully support its conclusion
+C. The argument does not consider the possibility of future oil price reduction
+D. The argument uses unproven assumptions as an argument
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",1.371,440_to_479
+478,group_2,C,"[""A"", ""A"", ""A"", ""B"", ""B""]",A,0.6,False,False,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+In the era of the Internet with complicated information, everyone is always at risk of being deceived, entrapped, and manipulated by others' opinions.If you don't want to be always at the mercy of others, if you don't want to spend a lifetime in chaos, if you want to learn to think independently and make rational decisions, then you must arm your mind with critical thinking.
+
+Question:
+
+If the above statement is true, which of the following statements is not necessarily true?
+
+Options:
+
+A. People who cannot arm their minds with critical thinking cannot learn to think independently and make rational decisions.
+B. You either choose to arm your mind with critical thinking, or choose to spend a lifetime in chaos.
+C. People who do not want to learn to think independently and make rational decisions need not arm their minds with critical thinking.
+D. Only those who are armed with critical thinking can get rid of the fate dictated by others.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.971,440_to_479
+479,group_3,B,"[""B"", ""B"", ""B"", ""B"", ""B""]",B,1.0,True,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+A unit arranges for 6 people on duty on the first day, second day, third day of the new year.They are G., H, K, L, P, and S.Two people are required per day.The personnel arrangement must meet the following conditions? (1) L and P must be on duty on the same day.(2) G and H cannot be on duty on the same day.(3) If K is on the first day of duty, then G is on the second day of duty.(4 ) If S is on the third day of duty, then H is on the second day of duty.
+
+Question:
+
+Which of the following can be a complete and accurate arrangement of the duty dates of these people?
+
+Options:
+
+A. Junior One? L and P? Junior Two? G and K? Junior Three H and S
+B. First day? L and P? second day? H and K? third day G and S
+C. Junior One? G and K? Junior Two? L and P? Junior Three H and S
+D. Junior One? K and S? Junior Two? G and H? Junior Three L and P
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,440_to_479
+480,group_1,C,"[""C"", ""C"", ""C"", ""C"", ""C""]",C,1.0,True,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+A unit arranges for 6 people on duty on the first day, second day, third day of the new year.They are G., H, K, L, P, and S.Two people are required per day.The personnel arrangement must meet the following conditions? (1) L and P must be on duty on the same day.(2) G and H cannot be on duty on the same day.(3) If K is on the first day of duty, then G is on the second day of duty.) If S is on the third day of duty, then H is on the second day of duty.
+
+Question:
+
+Which of the following must be true?
+
+Options:
+
+A. G and S are on duty on the same day
+B. S and H are not on the same day
+C. K and S are not on duty on the same day
+D. K and G are not on the same day
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,480_to_499
+481,group_2,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+A unit arranges for 6 people on duty on the first day, second day, third day of the new year.They are G., H, K, L, P, and S.Two people are required per day.The personnel arrangement must meet the following conditions? (1) L and P must be on duty on the same day.(2) G and H cannot be on duty on the same day.(3) If K is on the first day of duty, then G is on the second day of duty.) If S is on the third day of duty, then H is on the second day of duty.
+
+Question:
+
+If P is on duty in the second day, which of the following can be true?
+
+Options:
+
+A. S on duty in the third day
+B. H is on duty in the second day
+C. K on duty in the first day
+D. G on duty at the first day
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,480_to_499
+482,group_3,A,"[""C"", ""A"", ""A"", ""A"", null]",A,0.75,True,False,"[""Final Answer: C"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: (none)""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+A unit arranges for 6 people on duty on the first day, second day, third day of the new year.They are G., H, K, L, P, and S.Two people are required per day.The personnel arrangement must meet the following conditions? (1) L and P must be on duty on the same day.(2) G and H cannot be on duty on the same day.(3) If K is on the first day of duty, then G is on the second day of duty.(4 ) If S is on the third day of duty, then H is on the second day of duty.
+
+Question:
+
+If H is on duty the same day before S, which of the following must be true?
+
+Options:
+
+A. G on the second day of duty
+B. P on duty in the second day
+C. K on duty in the first day
+D. H on duty at the first day
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.811,480_to_499
+483,group_1,A,"[""A"", ""A"", ""A"", ""A"", ""A""]",A,1.0,True,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+After all the cold dishes at the banquet at one table were served, there were 7 hot dishes.Among them, three Sichuan dishes? K, L, M? three Cantonese dishes? Q, N, P? one Shandong dish? X.Only one hot dish can be served at a time, and the order of serving must meet the following conditions? (1) Cannot serve Sichuan cuisine or Cantonese cuisine continuously.(2) Unless the second is on Q, P cannot be on before Q.(3) P must be on before X.(4) M must be on before K, and K must be on before N.
+
+Question:
+
+The following lists the order of serving from the first to the seventh, which one meets the conditions?
+
+Options:
+
+A. Q, M, P, L, X, K, N
+B. Q, M, X, P, K, N, L
+C. L, P, M, Q, X, K, N
+D. M, Q, K, L, P, X, N
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,480_to_499
+484,group_2,C,"[""A"", ""C"", ""A"", ""D"", ""A""]",A,0.6,False,False,"[""Final Answer: A"", ""Final Answer: C"", ""Final Answer: A"", ""Final Answer: D"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+After all the cold dishes at the banquet at one table were served, there were 7 hot dishes.Among them, three Sichuan dishes? K, L, M? three Cantonese dishes? Q, N, P? one Shandong dish? X.Only one hot dish can be served at a time, and the order of serving must meet the following conditions? (1) Cannot serve Sichuan cuisine or Cantonese cuisine continuously.(2) Unless the second is on Q, P cannot be on before Q.(3) P must be on before X.(4) M must be on before K, and K must be on before N.
+
+Question:
+
+If the fourth goes to X, which of the following statements must be true?
+
+Options:
+
+A. First on Q
+B. The third on Q
+C. The second on M
+D. The third on M
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",1.371,480_to_499
+485,group_3,B,"[""D"", ""A"", ""D"", ""D"", ""D""]",D,0.8,False,True,"[""Final Answer: D"", ""Final Answer: A"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+After all the cold dishes at the banquet at one table were served, there were 7 hot dishes.Among them, three Sichuan dishes? K, L, M? three Cantonese dishes? Q, N, P? one Shandong dish? X.Only one hot dish can be served at a time, and the order of serving must meet the following conditions? (1) Cannot serve Sichuan cuisine or Cantonese cuisine continuously.(2) Unless the second is on Q, P cannot be on before Q.(3) P must be on before X.(4) M must be on before K, and K must be on before N.
+
+Question:
+
+If the fourth is K, which of the following statements may be true?
+
+Options:
+
+A. Fifth on P
+B. Sixth on X
+C. Fifth on L
+D. First on M
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,480_to_499
+486,group_1,D,"[""D"", ""D"", ""D"", ""D"", ""B""]",D,0.8,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+After all the cold dishes at the banquet at one table were served, there were 7 hot dishes.Among them, three Sichuan dishes? K, L, M? three Cantonese dishes? Q, N, P? one Shandong dish? X.Only one hot dish can be served at a time, and the order of serving must meet the following conditions? (1) Cannot serve Sichuan cuisine or Cantonese cuisine continuously.(2) Unless the second is on Q, P cannot be on before Q.(3) P must be on before X.(4) M must be on before K, and K must be on before N.
+
+Question:
+
+Which of the following may be true?
+
+Options:
+
+A. The second on P
+B. The third on N
+C. The second on K
+D. Second on L
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,480_to_499
+487,group_2,A,"[""A"", ""A"", ""A"", ""A"", ""A""]",A,1.0,True,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+After all the cold dishes at the banquet at one table were served, there were 7 hot dishes.Among them, three Sichuan dishes? K, L, M? three Cantonese dishes? Q, N, P? one Shandong dish? X.Only one hot dish can be served at a time, and the order of serving must meet the following conditions? (1) Cannot serve Sichuan cuisine or Cantonese cuisine continuously.(2) Unless the second is on Q, P cannot be on before Q.(3) P must be on before X.(4) M must be on before K, and K must be on before N.
+
+Question:
+
+If the third is M, which of the following statements may be true?
+
+Options:
+
+A. Fifth on X
+B. First on Q
+C. Sixth on L
+D. Fourth on K
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,480_to_499
+488,group_3,C,"[""B"", ""C"", ""B"", ""B"", ""B""]",B,0.8,False,True,"[""Final Answer: B"", ""Final Answer: C"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+People may be divided into two categories? those with a little ambition and those without.For ordinary people, that little ambition is a firm motivation to pull themselves out of the ordinary life; without that little ambition, they can only be overwhelmed by the ordinary life slowly, without power or even ignorance.In an era of change, that little ambition may lead to magnificent results.
+
+Question:
+
+Which of the following statements constitutes a refutation of the above view?
+
+Options:
+
+A. Liu Bei, who made straw shoes, never forgot that he was an uncle.Based on this, he was empty from two hands to one-third of the world.
+B. Although Zhang Xiong is aspiring, he is talented and uncommon.He has worked hard all his life, but nothing has happened, and he has been bruised.
+C. Liu Qin has no ambitions or special talents.With her natural beauty, she has done a lot of things with the help of nobles throughout her life.
+D. Sister Chrysanthemum is neither high-spirited nor beautiful, but she is very self-respecting and constantly tossing her life.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.722,480_to_499
+489,group_1,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+On July 16, 2013, Snowden, the whistleblower of the US ""Prism Gate"" incident, formally submitted an application for asylum to Russia.The United States has been hunting for Snowden.If Russia accepts Snowden's application, it will surely lead to the deterioration of Russia-US relations.However, there are high voices in Russia and other countries in the world that Snowden is a defender of the rights of the people of the world.If he refuses his application, Russia will suffer moral and national dignity.
+
+Question:
+
+If the above statement is true, which of the following statements must be true?
+
+Options:
+
+A. Russia does not want the Snowden incident to harm Russia-US relations.
+B. Russia will not give Snowden to the United States, but may send him to a third country.
+C. If Snowden's asylum application is accepted, Russia will not be compromised morally or nationally.
+D. If Russia does not want to worsen relations between Russia and the United States, it will suffer morally and national dignity.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,480_to_499
+490,group_2,C,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,False,True,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+The certification conditions for organic vegetables in Japan are very harsh, requiring that the land where organic vegetables are grown have not used any pesticides or fertilizers within 3 years.The selling price of Japanese organic vegetables is only 20% -30% higher than ordinary vegetables.In China, the price of organic vegetables is several times or even 10 times that of ordinary vegetables.This shows that China's organic vegetable cultivation industry is a huge profit industry.
+
+Question:
+
+Which of the following statements is the above conclusion needs to be assumed?
+
+Options:
+
+A. The price of ordinary vegetables in Japan is not too high.
+B. Chinese people's general concerns about food safety have led to a shortage of organic vegetables.
+C. Chinese organic vegetables are no more expensive than Japanese organic vegetables.
+D. The price of ordinary vegetables in China is completely marketized, and the profit margin is normal
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,480_to_499
+491,group_3,A,"[""A"", ""A"", ""A"", ""A"", ""A""]",A,1.0,True,True,"[""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+The article ""Essence of Great Medicine"" comes from the first volume of ""Preparing for Thousands of Gold"" written by Sun Simiao of the Tang Dynasty in China.This article discusses the qualities that a good doctor should have? First, it means that the doctor must have excellent medical skills;
+
+Question:
+
+The following statements can be logically derived from the above, except
+
+Options:
+
+A. People with superb medical skills are good doctors.
+B. A good doctor should have a noble character.
+C. No superb medical skills, noble character alone, and not a good doctor.
+D. Without noble character, you cannot be a good doctor.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,480_to_499
+492,group_1,D,"[""D"", ""A"", ""A"", ""A"", ""D""]",A,0.6,False,False,"[""Final Answer: D"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: A"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+For a period of time, the so-called ""God Reply"" of government officials has appeared one after another on the Internet, which has aroused public concern about the phenomenon of ""thunder words"" by officials.According to media reports, a local official asked an expert ""finless finless porpoise"".When he received a ""not good"" response, the official said, ""Why do you want to protect it?""
+
+Question:
+
+The following items are all implicit in the local official ’s words, except
+
+Options:
+
+A. We only protect finless porpoises.
+B. If the finless porpoise is not tasty, we will not protect it.
+C. For animal protection, the first thing to consider is whether the protected animal is delicious.
+D. Whether or not the animal needs protection is irrelevant whether it is delicious.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.971,480_to_499
+493,group_2,B,"[""B"", ""B"", ""B"", ""B"", ""B""]",B,1.0,True,True,"[""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+The Huang fish in Qinghai Lake is a delicious fish.In recent years, due to the deterioration of the natural environment and the overfishing of people, the number has greatly reduced and it has become a rare animal.All rare animals are animals that need protection.
+
+Question:
+
+If the above statement is true, the following statements must be true, except
+
+Options:
+
+A. Some rare animals are delicious fish.
+B. Some animals that need to be protected are not Huangyu of Qinghai Lake.
+C. Some delicious fish are animals that need protection.
+D. All the animals that do not need to be protected are not the yellowtail fish in Qinghai Lake.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,480_to_499
+494,group_3,D,"[""C"", ""D"", ""C"", ""B"", ""B""]",C,0.4,False,False,"[""Final Answer: C"", ""Final Answer: D"", ""Final Answer: C"", ""Final Answer: B"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+A famous painter recently said? I am old, but I am busy all day, and I have no time to think about death or thinking.Besides, if you die, you die, and it ’s not just me who will die alone, nobody else will die.Li Bai is dead, Su Dongpo is dead, and Cao Xueqin is dead, too.It's just that future generations are reading their works.
+
+Question:
+
+From the painter's words, which of the following statements can only be logically derived?
+
+Options:
+
+A. Everyone except the painter will die.
+B. The painter will die.
+C. Not all people will not die.
+D. If the painter will die, at least some other people will die.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",1.522,480_to_499
+495,group_1,C,"[""C"", ""C"", ""C"", ""C"", ""C""]",C,1.0,True,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Most of my open-minded friends have read a lot of books, but most of my non-open-minded friends are not.The more you read, the more likely you are to be challenged by new ideas, and your perseverance in your thoughts will be weakened, which makes sense.Reading also frees you from daily life and shows you the diversity and richness of life.Therefore, reading makes people open.
+
+Question:
+
+If the following statement is true, which one most strongly weakens the conclusion above?
+
+Options:
+
+A. Someone loves reading literary works, especially poems, and later writes poems by himself.Now he is a very famous poet.
+B. Some people have read a lot of books, and every time they read a book, it makes sense.Different reasons keep fighting in their heads, and they are almost crazy.
+C. If you only selectively read books of a certain type or opinion, it is likely that the more you read, the more paranoid.
+D. Some people like to put themselves in when they read.When they read ""Dream of Red Mansions"", they feel that they are Lin Daiyu or Jia Baoyu.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,480_to_499
+496,group_2,D,"[""D"", ""D"", ""D"", ""D"", ""D""]",D,1.0,True,True,"[""The phenomenon is explained by the fact that ordinary vocabulary is stored in cortical language areas that are often damaged in aphasia, whereas profanity is processed in more primitive, subcortical regions linked to emotion and instinct. This allows patients with severe language loss to still produce swear words.\n\nFinal Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""Final Answer: D"", ""The phenomenon suggests that profanity is stored and accessed in more primitive, emotion\u2011linked brain regions that can remain intact even when the cortical language areas are damaged. This explains why patients with severe aphasia may still be able to utter swear words.\n\nFinal Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Dr.Melissa Moore of Stanford University in the United States? ""Oh My God? A Brief History of Swearing"" talked about an interesting phenomenon? some patients with Alzheimer's disease or stroke have completely lost their language ability , Can still say a certain swear word repeatedly.This is confusing? aren't swear words talking?
+
+Question:
+
+If the following statement is true, which one best explains the above phenomenon?
+
+Options:
+
+A. Of the approximately 1 million English words, although only a dozen are swear words, they are used very frequently.
+B. Research by brain scientists confirmed that the human spirit can change the state of the body in a physiological sense.
+C. Swearing is the most expressive word for extreme emotions.Swearing can reduce stress and help to endure pain.
+D. General words are stored in the upper brain area that controls autonomous behavior and rational thinking, while swear words are stored in the lower brain area responsible for emotions and instincts.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,480_to_499
+497,group_3,C,"[""C"", ""C"", ""C"", ""C"", ""C""]",C,1.0,True,True,"[""Final Answer: C"", ""Final Answer: C"", ""Final Answer: C"", ""The decline in accident rates per passenger\u2011kilometre shows that flying has become safer, but the total number of flights and passengers has risen dramatically. With many more flights, even a lower rate can produce a higher total count of accidents. Therefore, the growth in the volume of civil aviation transportation explains the apparent contradiction.\n\nFinal Answer: C"", ""The decline in accident **rate** per passenger\u2011kilometre shows flights are getting safer, but if the total amount of air travel (the number of passenger\u2011kilometres flown) grows a lot, the same low rate applied to a much larger base can produce more accidents in total. Thus the increase in the absolute number of accidents is best explained by the rapid growth in the volume of civil aviation transportation.\n\nFinal Answer: C""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Asiana Airlines ’Boeing 777 crash at San Francisco Airport resulted in the death of three Chinese girls.This incident triggered public attention to aviation safety.Statistics show that from the 1950s to the present, the accident rate of civil flights has been declining.The number of deaths per 100 million passenger kilometers was 2.78 in 1945, 0.90 in the 1950s, and 0.013 in the past 30 years.However, the absolute number of civil aviation accidents has increased in recent decades.
+
+Question:
+
+If the following statement is true, which one can best explain the seemingly contradictory phenomenon?
+
+Options:
+
+A. Information technology is changing with each passing day, and now if a civil aviation accident occurs in a certain place, the news will soon spread throughout the world.
+B. In terms of civil aviation safety, the EU has the lowest accident rate, and Africa has the highest accident rate.
+C. The volume of civil aviation transportation has grown rapidly in recent decades.
+D. In recent decades, the earth ’s climate has changed abnormally, and severe weather such as fog has increased.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.0,480_to_499
+498,group_1,B,"[""C"", ""B"", ""B"", ""C"", ""B""]",B,0.6,True,False,"[""Final Answer: C"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: C"", ""Final Answer: B""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+A small academic seminar on ""Dream of Red Mansions"" was held somewhere.Of the participants, 4 were Northerners, 3 were Heilongjiang, 1 was Guizhou; 3 were writers, 2 were literary critics, and 1 was a professor; the above mentioned were all participants.
+
+Question:
+
+According to the above statement, how many people are the least likely to attend the seminar? How many people are the most likely?
+
+Options:
+
+A. There may be a minimum of 4 people and a maximum of 6 people.
+B. There may be at least 5 people and at most 11 people.
+C. There may be a minimum of 6 people and a maximum of 14 people.
+D. There may be at least 8 people and at most 10 people.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.971,480_to_499
+499,group_2,B,"[""D"", ""D"", ""B"", ""B"", ""D""]",D,0.6,False,False,"[""Final Answer: D"", ""Final Answer: D"", ""Final Answer: B"", ""Final Answer: B"", ""Final Answer: D""]","Read the question carefully. Explain your reasoning step by step and then choose the correct answer from the options. Please provide the reasoning before the final answer.
+
+Context:
+
+Wang Gang? It is confirmed that more than 80% of heroin users have a history of smoking marijuana.Such data seem to indicate that smoking cannabis will definitely lead to heroin consumption.Li Yan? Perhaps smoking marijuana will indeed lead to heroin, but it is ridiculous to quote the statistics you mentioned to confirm this, because 100% of heroin users have a history of drinking water.
+
+Question:
+
+In response to Wang Gang's discussion, which of the following demonstration techniques did Li Yan use?
+
+Options:
+
+A. Provide an example to show that anything that does not induce the use of heroin is unsafe.
+B. Question the practice of establishing causality based solely on statistical data.
+C. Provide evidence that the statistics used by Wang Gang to support his conclusions are inaccurate.
+D. Show that his argument is flawed by showing that Wang Gang's argument will lead to an obviously wrong conclusion.
+
+After your reasoning, write your final answer exactly like this:
+
+Final Answer: A
+
+(use only the letter A, B, C, or D)",0.971,480_to_499
