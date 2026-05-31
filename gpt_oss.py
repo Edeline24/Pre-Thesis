@@ -29,14 +29,14 @@ if not OPENROUTER_API_KEY:
     raise ValueError("OPENROUTER_API_KEY environment variable not set.")
 
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1/chat/completions"
-MODEL_NAME          = "openai/gpt-oss-120b:free"  # OpenRouter model identifier
+MODEL_NAME          = "openai/gpt-oss-120b:free"  
 N_GENERATIONS       = 5
-START_IDX           = 100 # 0, 100, 200, 300, 400, 500, 600
-END_IDX             = 200 # 100, 300, 400, 500, None
+START_IDX           = 200 # 0 V, 100 V, 200 V, 300, 400, 500, 600
+END_IDX             = 300 # 100 V, 200 V, 300 V, 400, 500, None
 BATCH_SIZE          = 40   # Number of questions per batch file
 TEMPERATURE         = 0.7
 TOP_P               = 0.9
-MAX_TOKENS          = 350  # Prevents CoT reasoning truncation
+MAX_TOKENS          = 350  
 OUTPUT_CSV          = "results_final.csv"
 OUTPUT_DIR          = "output_charts"
 BATCH_DIR           = "output_batches"
