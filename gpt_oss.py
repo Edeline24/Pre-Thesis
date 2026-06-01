@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from collections import Counter
 from tqdm import tqdm
-import requests   # OpenRouter uses standard HTTP requests
+import requests
 import random
 from math import log2
 import numpy as np
@@ -31,8 +31,8 @@ if not OPENROUTER_API_KEY:
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1/chat/completions"
 MODEL_NAME          = "openai/gpt-oss-120b:free"  
 N_GENERATIONS       = 5
-START_IDX           = 400 # 0 V, 100 V, 200 V, 300 V , 400 V, 500, 600
-END_IDX             = 500 # 100 V, 200 V, 300 V, 400 V, 500 V, None
+START_IDX           = 500 # 0 V, 100 V, 200 V, 300 V , 400 V, 500 V, 600
+END_IDX             = 600 # 100 V, 200 V, 300 V, 400 V, 500 V, 600 V,  None
 BATCH_SIZE          = 40   # Number of questions per batch file
 TEMPERATURE         = 0.7
 TOP_P               = 0.9
@@ -45,7 +45,6 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 os.makedirs(BATCH_DIR, exist_ok=True)
 
 # --- Core Functions ---
-
 def load_logiqa(start_idx=0, end_idx=None):
     url = "https://raw.githubusercontent.com/lgw863/LogiQA-dataset/master/Test.txt"
     print("Downloading LogiQA dataset from GitHub...")
@@ -152,7 +151,7 @@ def build_prompt(q):
     )
 
 
-# --- OpenRouter API call (replaces Groq client) ---
+# --- OpenRouter API call ---
 def call_gpt(prompt):
     headers = {
         "Authorization" : f"Bearer {OPENROUTER_API_KEY}",
@@ -226,7 +225,6 @@ def calculate_agreement(answers):
 
 
 # --- Batch Pipeline logic ---
-
 def process_batch(batch_questions, batch_id, batch_file_path):
     """Runs experiment for a single block of questions."""
     batch_results = []
@@ -237,7 +235,7 @@ def process_batch(batch_questions, batch_id, batch_file_path):
         texts   = []
 
         for _ in range(N_GENERATIONS):
-            text   = call_gpt(prompt)          # <-- uses OpenRouter now
+            text   = call_gpt(prompt)        
             answer = extract_answer(text)
             answers.append(answer)
             texts.append(text or "")
@@ -289,7 +287,6 @@ def merge_all_batches():
 
 
 # --- Analytics and Reporting ---
-
 def analyze_results(df):
     print("\n" + "="*60)
     print("ANALYSIS RESULTS")
