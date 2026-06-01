@@ -31,8 +31,8 @@ if not OPENROUTER_API_KEY:
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1/chat/completions"
 MODEL_NAME          = "openai/gpt-oss-120b:free"  
 N_GENERATIONS       = 5
-START_IDX           = 500 # 0 V, 100 V, 200 V, 300 V , 400 V, 500 V, 600
-END_IDX             = 600 # 100 V, 200 V, 300 V, 400 V, 500 V, 600 V,  None
+START_IDX           = 600 # 0 V, 100 V, 200 V, 300 V , 400 V, 500 V, 600 V
+END_IDX             = None # 100 V, 200 V, 300 V, 400 V, 500 V, 600 V, None V
 BATCH_SIZE          = 40   # Number of questions per batch file
 TEMPERATURE         = 0.7
 TOP_P               = 0.9
