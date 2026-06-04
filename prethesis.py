@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from collections import Counter
 from tqdm import tqdm
-from groq import Groq
+from openai import OpenAI
 import random
 from math import log2
 import numpy as np
@@ -25,22 +25,23 @@ random.seed(42)
 np.random.seed(42)
 
 # --- Configuration ---
-GROQ_API_KEY  = os.getenv("GROQ_API_KEY")
-if not GROQ_API_KEY:
-    raise ValueError("GROQ_API_KEY environment variable not set.")
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 
-MODEL_NAME    = "llama-3.3-70b-versatile"
+if not OPENROUTER_API_KEY:
+    raise ValueError("OPENROUTER_API_KEY environment variable not set.")
+
+MODEL_NAME    = "google/gemini-2.5-flash"
 N_GENERATIONS = 5    
-START_IDX     = 0
-END_IDX       = 100
-BATCH_SIZE    = 40  # Number of questions per batch file
+START_IDX     = 500
+END_IDX       = 700
+BATCH_SIZE    = 50  # Number of questions per batch file
 
 TEMPERATURE   = 0.7
 TOP_P         = 0.9
 MAX_TOKENS    = 350  # Prevents CoT reasoning truncation
-OUTPUT_CSV    = "results_final.csv"
-OUTPUT_DIR    = "output_charts"
-BATCH_DIR     = "output_batches"
+OUTPUT_CSV    = "results_final_flash.csv"
+OUTPUT_DIR    = "output_charts_flash"
+BATCH_DIR     = "output_batches_flash"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 os.makedirs(BATCH_DIR, exist_ok=True)
@@ -60,7 +61,7 @@ def load_logiqa(start_idx=0, end_idx=None):
 
     lines = raw.split("\n")
     questions = []
-    experimental_groups = ["group_1", "group_2", "group_3"]
+    
     i = 0
 
     while i < len(lines):
@@ -99,7 +100,6 @@ def load_logiqa(start_idx=0, end_idx=None):
                 "question"      : question,
                 "options"       : option_str,
                 "correct_answer": chr(65 + correct_idx),
-                "experimental_group": experimental_groups[len(questions) % 3],
             })
             i += 8  
 
@@ -151,9 +151,13 @@ def build_prompt(q):
         options  = q["options"],
     )
 
-client = Groq(api_key=GROQ_API_KEY)
+client = OpenAI(
+    base_url="https://openrouter.ai/api/v1",
+    api_key=OPENROUTER_API_KEY,
+)
 
-def call_llama3(prompt):
+
+def call_model(prompt):
     for attempt in range(3):
         try:
             response = client.chat.completions.create(
@@ -208,15 +212,27 @@ def calculate_agreement(answers):
 
 def process_batch(batch_questions, batch_id, batch_file_path):
     """Runs experiment for a single block of questions."""
-    batch_results = []
+
+    if os.path.exists(batch_file_path):
+        existing_df = pd.read_csv(batch_file_path)
+        processed_ids = set(existing_df["question_id"])
+
+        batch_results = existing_df.to_dict("records")
+    else:
+        processed_ids = set()
+        batch_results = []
     
     for q in tqdm(batch_questions, desc=f"Processing Batch {batch_id}"):
+
+        if q["id"] in processed_ids:
+            continue
+        
         prompt  = build_prompt(q)
         answers = []
         texts   = []
 
         for _ in range(N_GENERATIONS):
-            text   = call_llama3(prompt)
+            text   = call_model(prompt)
             answer = extract_answer(text)
             answers.append(answer)
             texts.append(text or "")
@@ -229,9 +245,8 @@ def process_batch(batch_questions, batch_id, batch_file_path):
         is_correct = (majority_answer == q["correct_answer"]) if majority_answer else False
         entropy = calculate_entropy(answers)
 
-        batch_results.append({
+        result_row = {
             "question_id"    : q["id"],
-            "experimental_group" : q["experimental_group"],
             "correct_answer" : q["correct_answer"],
             "all_answers"    : json.dumps(answers),
             "majority_answer": majority_answer,
@@ -242,8 +257,17 @@ def process_batch(batch_questions, batch_id, batch_file_path):
             "prompt": prompt,
             "entropy": entropy,
             "batch_id": batch_id,
-        })
-    
+        }
+
+        batch_results.append(result_row)
+        processed_ids.add(q["id"])
+
+        # SAVE AFTER EACH QUESTION
+        pd.DataFrame(batch_results).to_csv(
+            batch_file_path,
+            index=False
+        )
+
     if batch_results:
         df_batch = pd.DataFrame(batch_results)
         df_batch.to_csv(batch_file_path, index=False)
@@ -276,13 +300,7 @@ def analyze_results(df):
     print(f"Mean Agreement Ratio: {df['agreement_ratio'].mean():.3f}")
     print(f"Total Questions     : {len(df)}")
 
-    print("\n--- Accuracy per Experimental Group ---")
-    type_stats = df.groupby("experimental_group").agg(
-        accuracy       = ("is_correct", "mean"),
-        mean_agreement = ("agreement_ratio", "mean"),
-        count          = ("question_id", "count")
-    ).round(3)
-    print(type_stats)
+    type_stats = None
 
     high_agree = df[df["high_agreement"]]
     low_agree  = df[~df["high_agreement"]]
@@ -296,7 +314,7 @@ def analyze_results(df):
 
 def plot_results(df, type_stats):
     fig, axes = plt.subplots(2, 2, figsize=(14, 10))
-    fig.suptitle("LLM Self-Consistency Analysis — LogiQA (Llama3)", fontsize=14, fontweight="bold")
+    fig.suptitle("LLM Self-Consistency Analysis — LogiQA (Gemini 2.5 Flash)", fontsize=14, fontweight="bold")
 
     # Graph 1
     ax = axes[0, 0]
@@ -308,12 +326,14 @@ def plot_results(df, type_stats):
 
     # Graph 2
     ax = axes[0, 1]
-    type_stats["accuracy"].plot(kind="bar", ax=ax, color=["#4C72B0", "#DD8452", "#55A868"][:len(type_stats)], edgecolor="white")
-    ax.set_xlabel("Experimental Group")
-    ax.set_ylabel("Accuracy")
-    ax.set_title("Accuracy per Experimental Group")
-    ax.set_ylim(0, 1)
-    ax.tick_params(axis='x', rotation=0)
+    df["entropy"].hist(
+        bins=10,
+        ax=ax,
+        edgecolor="white"
+    )
+    ax.set_xlabel("Entropy")
+    ax.set_ylabel("Number of Questions")
+    ax.set_title("Distribution of Entropy")
 
     # Graph 3
     ax = axes[1, 0]
@@ -363,11 +383,6 @@ if __name__ == "__main__":
         batch_id      = f"{real_start_id}_to_{real_end_id}"
         batch_file    = os.path.join(BATCH_DIR, f"batch_{batch_id}.csv")
 
-        # Skip processing completely if this file exists
-        if os.path.exists(batch_file):
-            print(f"Batch {batch_id} already exists. Skipping processing stage.")
-            continue
-
         process_batch(chunk, batch_id, batch_file)
         
     # --- Merge Phase ---
@@ -375,7 +390,7 @@ if __name__ == "__main__":
 
     if not final_df.empty:
         final_df.to_csv(OUTPUT_CSV, index=False)
-        final_df.to_json("results_full.json", orient="records", indent=2)
+        final_df.to_json("results_full_flash.json", orient="records", indent=2)
         print(f"\nMaster compilation records written to: {OUTPUT_CSV}")
         
         type_stats = analyze_results(final_df)
