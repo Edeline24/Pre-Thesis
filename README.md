@@ -30,3 +30,7 @@ Scoring rule: the answer selected by majority vote is the plurality answer. A ti
 Running `prethesis.py` requires an OpenRouter API key and incurs API costs. See `python prethesis.py -h` for all options.
 
 The LogiQA test split is downloaded from https://github.com/lgw863/LogiQA-dataset.
+
+## Labeling materials
+
+`labeling/` contains the prompt used to produce the provisional category labels (`logiqa_labeling_prompt_v5.md`) and the script that sent it to the model (`run_labeling_cc.py`, run with `--prompt logiqa_labeling_prompt_v5.md`). The six category definitions are in the CATEGORIES section of the prompt file.
